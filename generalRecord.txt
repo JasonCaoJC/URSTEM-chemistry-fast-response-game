@@ -1,0 +1,12 @@
+Homework 33 Due: April 17, 2019
+demo||Tue May 25 2021 14:54:41 ||||0:11:29||orbitals||0||19
+demo||Tue May 25 2021 15:06:10 ||||0:03:05||sn2||0||3
+demo||Tue May 25 2021 15:09:15 ||||0:01:15||orbitals||0||7
+demo||Tue May 25 2021 15:10:30 ||||0:05:46||pkas||0||4
+demo||Tue May 25 2021 15:16:17 ||||0:00:32||styrene||0||1
+demo||Tue May 25 2021 15:16:49 ||||0:03:27||styrene||0||2
+demo||Tue May 25 2021 15:20:17 ||||0:00:01||styrene||0||1
+demo||Tue May 25 2021 15:20:18 ||||0:00:02||styrene||0||1
+demo||Tue May 25 2021 15:20:24 ||||0:00:02||styrene||0||1
+demo||Tue May 25 2021 15:20:26 ||||0:00:02||styrene||0||1
+demo||Tue May 25 2021 15:20:32 ||||0:00:02||styrene||0||1

@@ -1,0 +1,875 @@
+hammerj1||Wed Sep 06 2017 09:24:08 ||Wed Sep 06 2017 09:25:22 ||0:01:14||Orbitals||1||24
+demo||Wed Sep 06 2017 13:25:57 ||Wed Sep 06 2017 13:26:46 ||0:00:48||sn2||1||15
+okoronkwoc1||Wed Sep 06 2017 13:34:40 ||Wed Sep 06 2017 13:36:45 ||0:02:04||Orbitals||1||27
+okoronkwoc1||Wed Sep 06 2017 13:36:56 ||||0:01:27||Orbitals||0||14
+okoronkwoc1||Wed Sep 06 2017 13:39:20 ||Wed Sep 06 2017 13:40:56 ||0:01:36||functional groups||1||18
+kones1||Wed Sep 06 2017 16:43:44 ||Wed Sep 06 2017 16:49:14 ||0:05:30||orbitals||1||29
+demo||Thu Sep 07 2017 16:14:05 ||Thu Sep 07 2017 16:15:08 ||0:01:02||acronyms||1||19
+okoronkwoc1||Thu Sep 07 2017 21:06:39 ||Thu Sep 07 2017 21:08:04 ||0:01:24||Orbitals||1||19
+okoronkwoc1||Thu Sep 07 2017 21:08:08 ||Thu Sep 07 2017 21:09:23 ||0:01:15||Orbitals||1||19
+okoronkwoc1||Thu Sep 07 2017 21:09:28 ||Thu Sep 07 2017 21:11:24 ||0:01:55||Orbitals||1||27
+okoronkwoc1||Thu Sep 07 2017 21:11:44 ||Thu Sep 07 2017 21:13:02 ||0:01:17||functional groups||1||20
+okoronkwoc1||Thu Sep 07 2017 21:13:22 ||Thu Sep 07 2017 21:14:52 ||0:01:30||functional groups||1||21
+okoronkwoc1||Thu Sep 07 2017 21:14:55 ||Thu Sep 07 2017 21:16:01 ||0:01:06||functional groups||1||17
+wilsonk36||Mon Sep 11 2017 03:19:42 ||Mon Sep 11 2017 03:23:06 ||0:03:24||orbitals||1||26
+wilsonk36||Mon Sep 11 2017 03:23:23 ||Mon Sep 11 2017 03:26:10 ||0:02:47||orbitals||1||25
+mcbeea1||Mon Sep 11 2017 10:34:36 ||Mon Sep 11 2017 10:36:33 ||0:01:57||Orbitals||1||25
+armstrongk6||Tue Sep 12 2017 17:40:27 ||Tue Sep 12 2017 17:41:28 ||0:01:00||orbitals||1||14
+armstrongk6||Tue Sep 12 2017 17:41:38 ||Tue Sep 12 2017 17:42:23 ||0:00:45||orbitals||1||13
+mcbrided2||Wed Sep 13 2017 13:22:26 ||Wed Sep 13 2017 13:23:39 ||0:01:13||orbitals||1||18
+mcbrided2||Wed Sep 13 2017 13:23:52 ||Wed Sep 13 2017 13:23:39 ||0:00:17||orbitals||0||1
+mcbrided2||Wed Sep 13 2017 13:24:09 ||Wed Sep 13 2017 13:25:44 ||0:01:35||orbitals||1||24
+chappellt1||Wed Sep 13 2017 23:15:48 ||Wed Sep 13 2017 23:17:46 ||0:01:58||Orbitals||1||15
+demo||Thu Sep 14 2017 12:17:54 ||||0:00:05||Orbitals||0||1
+demo||Thu Sep 14 2017 12:21:22 ||||0:00:18||Orbitals||0||3
+demo||Thu Sep 14 2017 13:30:04 ||||0:00:05||Orbitals||0||1
+demo||Thu Sep 14 2017 13:30:16 ||Thu Sep 14 2017 13:31:28 ||0:01:12||orbitals||1||26
+demo||Thu Sep 14 2017 13:36:43 ||Thu Sep 14 2017 13:31:28 ||0:00:39||functional groups||0||2
+demo||Thu Sep 14 2017 15:27:35 ||Thu Sep 14 2017 15:28:54 ||0:01:19||pkas||1||19
+demo||Thu Sep 14 2017 15:29:26 ||Thu Sep 14 2017 15:30:13 ||0:00:47||pkas||1||16
+kones1||Sun Sep 17 2017 16:52:42 ||Sun Sep 17 2017 16:54:34 ||0:01:52||pkas||1||17
+kones1||Sun Sep 17 2017 16:54:37 ||Sun Sep 17 2017 16:56:11 ||0:01:34||pkas||1||18
+kones1||Sun Sep 17 2017 16:56:14 ||Sun Sep 17 2017 16:57:41 ||0:01:27||pkas||1||19
+kones1||Sun Sep 17 2017 16:57:44 ||Sun Sep 17 2017 16:59:07 ||0:01:23||pkas||1||17
+kones1||Sun Sep 17 2017 16:59:11 ||Sun Sep 17 2017 17:01:08 ||0:01:56||pkas||1||17
+kones1||Sun Sep 17 2017 17:01:14 ||Sun Sep 17 2017 17:01:08 ||0:00:24||orbitals||0||5
+kones1||Sun Sep 17 2017 17:01:39 ||Sun Sep 17 2017 17:03:39 ||0:02:00||orbitals||1||28
+kones1||Sun Sep 17 2017 17:03:41 ||Sun Sep 17 2017 17:04:32 ||0:00:51||orbitals||1||16
+kones1||Sun Sep 17 2017 17:04:34 ||Sun Sep 17 2017 17:05:54 ||0:01:20||orbitals||1||16
+kones1||Sun Sep 17 2017 17:06:05 ||Sun Sep 17 2017 17:07:30 ||0:01:24||pkas||1||23
+kones1||Sun Sep 17 2017 17:07:31 ||Sun Sep 17 2017 17:08:34 ||0:01:02||pkas||1||19
+demo||Mon Sep 18 2017 12:03:32 ||||0:00:10||pkas||0||2
+demo||Mon Sep 18 2017 12:03:54 ||Mon Sep 18 2017 12:12:21 ||0:08:26||functional groups||1||17
+demo||Mon Sep 18 2017 12:12:44 ||Mon Sep 18 2017 12:19:03 ||0:06:19||functional groups||1||13
+demo||Mon Sep 18 2017 12:20:10 ||Mon Sep 18 2017 12:24:41 ||0:04:31||functional groups||1||14
+kones1||Mon Sep 18 2017 14:58:30 ||Mon Sep 18 2017 14:59:28 ||0:00:58||pkas||1||18
+kones1||Mon Sep 18 2017 14:59:36 ||Mon Sep 18 2017 15:00:34 ||0:00:58||orbitals||1||18
+kones1||Mon Sep 18 2017 15:04:03 ||Mon Sep 18 2017 15:06:00 ||0:01:57||functional groups||1||17
+kones1||Mon Sep 18 2017 15:06:03 ||Mon Sep 18 2017 15:07:57 ||0:01:53||functional groups||1||16
+armstrongk6||Mon Sep 18 2017 19:43:43 ||||0:00:50||functional groups||0||10
+armstrongk6||Mon Sep 18 2017 19:44:33 ||Mon Sep 18 2017 19:45:52 ||0:01:19||functional groups||1||19
+armstrongk6||Mon Sep 18 2017 19:45:59 ||Mon Sep 18 2017 19:46:50 ||0:00:51||functional groups||1||13
+armstrongk6||Mon Sep 18 2017 19:46:59 ||Mon Sep 18 2017 19:47:56 ||0:00:57||functional groups||1||13
+armstrongk6||Mon Sep 18 2017 19:48:00 ||Mon Sep 18 2017 19:49:29 ||0:01:29||functional groups||1||23
+armstrongk6||Mon Sep 18 2017 19:50:49 ||Mon Sep 18 2017 19:52:35 ||0:01:46||pkas||1||28
+armstrongk6||Mon Sep 18 2017 19:53:19 ||Mon Sep 18 2017 19:54:39 ||0:01:20||orbitals||1||21
+kones1||Tue Sep 19 2017 01:33:14 ||Tue Sep 19 2017 01:34:57 ||0:01:43||functional groups||1||19
+kones1||Tue Sep 19 2017 01:35:00 ||Tue Sep 19 2017 01:36:04 ||0:01:04||functional groups||1||19
+kones1||Tue Sep 19 2017 01:37:38 ||Tue Sep 19 2017 01:41:16 ||0:03:38||pkas||1||14
+armstrongk6||Tue Sep 19 2017 08:39:18 ||Tue Sep 19 2017 08:40:07 ||0:00:49||functional groups||1||11
+armstrongk6||Tue Sep 19 2017 08:40:13 ||Tue Sep 19 2017 08:41:10 ||0:00:57||functional groups||1||13
+armstrongk6||Tue Sep 19 2017 08:42:04 ||Tue Sep 19 2017 08:43:05 ||0:01:00||functional groups||1||14
+armstrongk6||Tue Sep 19 2017 08:43:10 ||Tue Sep 19 2017 08:44:06 ||0:00:56||functional groups||1||13
+armstrongk6||Tue Sep 19 2017 08:44:20 ||Tue Sep 19 2017 08:45:41 ||0:01:20||functional groups||1||20
+armstrongk6||Tue Sep 19 2017 08:45:46 ||Tue Sep 19 2017 08:46:53 ||0:01:06||functional groups||1||16
+armstrongk6||Tue Sep 19 2017 08:47:58 ||Tue Sep 19 2017 08:48:59 ||0:01:01||orbitals||1||16
+armstrongk6||Tue Sep 19 2017 08:49:35 ||Tue Sep 19 2017 08:51:31 ||0:01:55||orbitals||1||27
+armstrongk6||Tue Sep 19 2017 08:52:44 ||Tue Sep 19 2017 08:54:29 ||0:01:44||pkas||1||25
+armstrongk6||Tue Sep 19 2017 08:55:38 ||Tue Sep 19 2017 08:56:36 ||0:00:58||pkas||1||13
+armstrongk6||Tue Sep 19 2017 08:56:53 ||Tue Sep 19 2017 08:58:35 ||0:01:42||pkas||1||27
+armstrongk6||Tue Sep 19 2017 08:58:54 ||Tue Sep 19 2017 09:00:10 ||0:01:16||pkas||1||18
+demo||Tue Sep 19 2017 12:03:45 ||Tue Sep 19 2017 12:04:59 ||0:01:13||functional groups||1||19
+wesselsm1||Tue Sep 19 2017 21:47:37 ||||0:00:27||pkas||0||5
+pronka1||Wed Sep 20 2017 07:38:35 ||Wed Sep 20 2017 07:40:06 ||0:01:31||functional groups||1||15
+pronka1||Wed Sep 20 2017 07:48:14 ||Wed Sep 20 2017 07:58:33 ||0:10:19||functional groups||1||18
+wesselsm1||Wed Sep 20 2017 09:49:51 ||Wed Sep 20 2017 09:51:30 ||0:01:39||functional groups||1||23
+wesselsm1||Wed Sep 20 2017 09:55:36 ||Wed Sep 20 2017 09:57:09 ||0:01:33||functional groups||1||25
+wesselsm1||Wed Sep 20 2017 10:21:58 ||Wed Sep 20 2017 10:23:01 ||0:01:03||functional groups||1||17
+wesselsm1||Wed Sep 20 2017 10:24:23 ||Wed Sep 20 2017 10:25:46 ||0:01:23||functional groups||1||24
+wesselsm1||Wed Sep 20 2017 10:26:46 ||Wed Sep 20 2017 10:28:33 ||0:01:47||functional groups||1||30
+wesselsm1||Wed Sep 20 2017 10:29:07 ||Wed Sep 20 2017 10:30:59 ||0:01:51||pkas||1||36
+wesselsm1||Wed Sep 20 2017 10:32:16 ||Wed Sep 20 2017 10:33:36 ||0:01:20||pkas||1||27
+wesselsm1||Wed Sep 20 2017 10:34:06 ||Wed Sep 20 2017 10:35:13 ||0:01:07||pkas||1||22
+wesselsm1||Wed Sep 20 2017 10:35:48 ||Wed Sep 20 2017 10:37:34 ||0:01:46||pkas||1||34
+pronka1||Wed Sep 20 2017 10:43:25 ||Wed Sep 20 2017 10:45:23 ||0:01:58||functional groups||1||18
+lavernek1||Wed Sep 20 2017 12:57:19 ||Wed Sep 20 2017 12:59:02 ||0:01:42||functional groups||1||28
+lavernek1||Wed Sep 20 2017 12:59:05 ||Wed Sep 20 2017 13:00:22 ||0:01:17||functional groups||1||25
+lavernek1||Wed Sep 20 2017 13:00:25 ||Wed Sep 20 2017 13:01:17 ||0:00:51||functional groups||1||14
+lavernek1||Wed Sep 20 2017 13:01:22 ||Wed Sep 20 2017 13:02:22 ||0:00:59||functional groups||1||18
+lavernek1||Wed Sep 20 2017 13:02:25 ||Wed Sep 20 2017 13:03:30 ||0:01:05||functional groups||1||21
+lavernek1||Wed Sep 20 2017 13:03:42 ||Wed Sep 20 2017 13:04:32 ||0:00:50||functional groups||1||18
+lavernek1||Wed Sep 20 2017 13:04:34 ||Wed Sep 20 2017 13:05:28 ||0:00:54||functional groups||1||19
+lavernek1||Wed Sep 20 2017 13:05:31 ||Wed Sep 20 2017 13:06:19 ||0:00:48||functional groups||1||13
+lavernek1||Wed Sep 20 2017 13:06:28 ||Wed Sep 20 2017 13:07:16 ||0:00:47||functional groups||1||12
+lavernek1||Wed Sep 20 2017 13:07:18 ||Wed Sep 20 2017 13:08:05 ||0:00:47||functional groups||1||14
+lavernek1||Wed Sep 20 2017 13:08:07 ||Wed Sep 20 2017 13:09:10 ||0:01:03||functional groups||1||16
+lavernek1||Wed Sep 20 2017 13:09:13 ||Wed Sep 20 2017 13:10:17 ||0:01:03||functional groups||1||16
+lavernek1||Wed Sep 20 2017 13:10:51 ||Wed Sep 20 2017 13:13:34 ||0:02:43||pkas||1||46
+lavernek1||Wed Sep 20 2017 13:13:48 ||Wed Sep 20 2017 13:14:55 ||0:01:06||pkas||1||20
+lavernek1||Wed Sep 20 2017 13:14:57 ||Wed Sep 20 2017 13:16:24 ||0:01:27||pkas||1||24
+lavernek1||Wed Sep 20 2017 13:16:29 ||Wed Sep 20 2017 13:17:23 ||0:00:53||pkas||1||20
+lavernek1||Wed Sep 20 2017 13:17:56 ||Wed Sep 20 2017 13:18:42 ||0:00:45||functional groups||1||14
+lavernek1||Wed Sep 20 2017 13:18:44 ||Wed Sep 20 2017 13:19:30 ||0:00:46||functional groups||1||14
+lavernek1||Wed Sep 20 2017 14:51:34 ||Wed Sep 20 2017 14:52:21 ||0:00:46||functional groups||1||15
+lavernek1||Wed Sep 20 2017 15:06:51 ||||0:00:34||functional groups||0||1
+lavernek1||Wed Sep 20 2017 15:07:25 ||Wed Sep 20 2017 15:08:34 ||0:01:09||functional groups||1||12
+lavernek1||Wed Sep 20 2017 15:09:05 ||Wed Sep 20 2017 15:10:06 ||0:01:01||pkas||1||22
+lavernek1||Wed Sep 20 2017 15:10:09 ||Wed Sep 20 2017 15:11:13 ||0:01:03||pkas||1||23
+lavernek1||Wed Sep 20 2017 15:11:59 ||Wed Sep 20 2017 15:17:35 ||0:05:35||pkas||1||23
+lavernek1||Wed Sep 20 2017 15:18:15 ||Wed Sep 20 2017 15:22:19 ||0:04:04||pkas||1||23
+powellk7||Wed Sep 20 2017 16:44:19 ||Wed Sep 20 2017 16:45:35 ||0:01:16||functional groups||1||24
+powellk7||Wed Sep 20 2017 16:45:42 ||Wed Sep 20 2017 16:47:18 ||0:01:36||functional groups||1||24
+powellk7||Wed Sep 20 2017 16:47:23 ||Wed Sep 20 2017 16:51:02 ||0:03:39||functional groups||1||22
+powellk7||Wed Sep 20 2017 16:51:05 ||Wed Sep 20 2017 16:54:02 ||0:02:57||functional groups||1||26
+powellk7||Wed Sep 20 2017 17:08:22 ||Wed Sep 20 2017 17:09:09 ||0:00:46||functional groups||1||16
+powellk7||Wed Sep 20 2017 17:09:10 ||Wed Sep 20 2017 17:10:11 ||0:01:00||functional groups||1||25
+powellk7||Wed Sep 20 2017 17:10:32 ||Wed Sep 20 2017 17:11:26 ||0:00:54||functional groups||1||19
+powellk7||Wed Sep 20 2017 17:11:31 ||Wed Sep 20 2017 17:12:05 ||0:00:34||functional groups||1||16
+powellk7||Wed Sep 20 2017 17:21:42 ||Wed Sep 20 2017 17:22:29 ||0:00:47||functional groups||1||19
+fredettee1||Wed Sep 20 2017 19:18:34 ||Wed Sep 20 2017 19:19:49 ||0:01:15||orbitals||1||20
+fredettee1||Wed Sep 20 2017 19:20:21 ||Wed Sep 20 2017 19:21:16 ||0:00:55||functional groups||1||18
+fredettee1||Wed Sep 20 2017 19:21:23 ||Wed Sep 20 2017 19:22:09 ||0:00:46||functional groups||1||18
+fredettee1||Wed Sep 20 2017 19:22:32 ||Wed Sep 20 2017 19:23:18 ||0:00:46||pkas||1||17
+fredettee1||Wed Sep 20 2017 19:23:22 ||Wed Sep 20 2017 19:24:24 ||0:01:02||pkas||1||22
+arnoldd5||Wed Sep 20 2017 21:46:30 ||Wed Sep 20 2017 21:48:18 ||0:01:48||orbitals||1||18
+arnoldd5||Wed Sep 20 2017 21:48:27 ||Wed Sep 20 2017 21:49:50 ||0:01:23||orbitals||1||18
+arnoldd5||Wed Sep 20 2017 21:50:13 ||Wed Sep 20 2017 21:51:46 ||0:01:33||Orbitals||1||22
+arnoldd5||Wed Sep 20 2017 21:53:06 ||Wed Sep 20 2017 21:55:56 ||0:02:50||pkas||1||42
+arnoldd5||Wed Sep 20 2017 21:56:39 ||Wed Sep 20 2017 22:00:00 ||0:03:20||pkas||1||29
+arnoldd5||Wed Sep 20 2017 22:01:44 ||Wed Sep 20 2017 22:03:10 ||0:01:26||functional groups||1||17
+arnoldd5||Wed Sep 20 2017 22:03:45 ||Wed Sep 20 2017 22:05:25 ||0:01:40||functional groups||1||19
+arnoldd5||Wed Sep 20 2017 22:05:43 ||Wed Sep 20 2017 22:08:05 ||0:02:22||functional groups||1||19
+arnoldd5||Wed Sep 20 2017 22:10:24 ||Wed Sep 20 2017 22:12:47 ||0:02:23||functional groups||1||21
+armstrongk6||Wed Sep 20 2017 22:22:45 ||Wed Sep 20 2017 22:23:39 ||0:00:54||functional groups||1||14
+armstrongk6||Wed Sep 20 2017 22:23:42 ||Wed Sep 20 2017 22:24:40 ||0:00:58||functional groups||1||14
+armstrongk6||Wed Sep 20 2017 22:24:46 ||Wed Sep 20 2017 22:26:24 ||0:01:38||pkas||1||20
+heidelj3||Wed Sep 20 2017 22:56:13 ||||0:00:14||pkas||0||2
+heidelj3||Wed Sep 20 2017 22:56:27 ||||0:00:29||pkas||0||1
+heidelj3||Wed Sep 20 2017 22:56:57 ||Wed Sep 20 2017 22:58:24 ||0:01:27||pkas||1||22
+heidelj3||Wed Sep 20 2017 22:58:32 ||Wed Sep 20 2017 22:59:55 ||0:01:23||orbitals||1||17
+heidelj3||Wed Sep 20 2017 23:00:06 ||Wed Sep 20 2017 23:01:09 ||0:01:03||orbitals||1||19
+heidelj3||Wed Sep 20 2017 23:01:29 ||Wed Sep 20 2017 23:02:33 ||0:01:04||functional groups||1||19
+lindseyr2||Thu Sep 21 2017 00:18:59 ||Thu Sep 21 2017 00:19:44 ||0:00:45||functional groups||1||16
+lindseyr2||Thu Sep 21 2017 00:20:06 ||Thu Sep 21 2017 00:22:03 ||0:01:57||pkas||1||37
+lindseyr2||Thu Sep 21 2017 00:22:47 ||Thu Sep 21 2017 00:23:36 ||0:00:48||orbitals||1||18
+foltzk||Thu Sep 21 2017 10:52:26 ||Thu Sep 21 2017 10:55:15 ||0:02:48||Orbitals||1||35
+foltzk||Thu Sep 21 2017 10:56:10 ||Thu Sep 21 2017 10:57:21 ||0:01:10||pkas||1||18
+foltzk||Thu Sep 21 2017 10:58:22 ||Thu Sep 21 2017 10:59:08 ||0:00:45||functional groups||1||12
+foltzk||Thu Sep 21 2017 10:59:55 ||Thu Sep 21 2017 11:00:53 ||0:00:58||orbitals||1||13
+foltzk||Thu Sep 21 2017 11:01:05 ||Thu Sep 21 2017 11:00:53 ||0:00:36||pkas||0||1
+lavernek1||Thu Sep 21 2017 11:00:14 ||Thu Sep 21 2017 11:01:56 ||0:01:42||Orbitals||1||29
+foltzk||Thu Sep 21 2017 11:01:42 ||Thu Sep 21 2017 11:02:46 ||0:01:04||pkas||1||17
+lavernek1||Thu Sep 21 2017 11:01:58 ||Thu Sep 21 2017 11:03:52 ||0:01:53||Orbitals||1||35
+lavernek1||Thu Sep 21 2017 11:04:00 ||Thu Sep 21 2017 11:05:17 ||0:01:16||Orbitals||1||15
+lavernek1||Thu Sep 21 2017 11:05:18 ||Thu Sep 21 2017 11:06:21 ||0:01:03||Orbitals||1||22
+lavernek1||Thu Sep 21 2017 11:06:23 ||Thu Sep 21 2017 11:07:02 ||0:00:38||Orbitals||1||15
+lavernek1||Thu Sep 21 2017 11:07:30 ||Thu Sep 21 2017 11:08:55 ||0:01:25||pkas||1||29
+lavernek1||Thu Sep 21 2017 11:09:05 ||Thu Sep 21 2017 11:10:30 ||0:01:25||pkas||1||23
+lavernek1||Thu Sep 21 2017 11:10:36 ||Thu Sep 21 2017 11:13:39 ||0:03:02||pkas||1||24
+lavernek1||Thu Sep 21 2017 11:13:41 ||Thu Sep 21 2017 11:14:37 ||0:00:56||pkas||1||21
+lavernek1||Thu Sep 21 2017 11:14:43 ||Thu Sep 21 2017 11:16:02 ||0:01:19||pkas||1||32
+lavernek1||Thu Sep 21 2017 11:16:29 ||Thu Sep 21 2017 11:17:29 ||0:01:00||functional groups||1||16
+lavernek1||Thu Sep 21 2017 11:17:31 ||Thu Sep 21 2017 11:20:02 ||0:02:31||functional groups||1||19
+lavernek1||Thu Sep 21 2017 11:20:05 ||Thu Sep 21 2017 11:23:24 ||0:03:19||functional groups||1||17
+lavernek1||Thu Sep 21 2017 11:24:26 ||Thu Sep 21 2017 11:25:35 ||0:01:09||functional groups||1||19
+lavernek1||Thu Sep 21 2017 11:27:23 ||Thu Sep 21 2017 11:28:10 ||0:00:46||functional groups||1||16
+lavernek1||Thu Sep 21 2017 11:28:11 ||Thu Sep 21 2017 11:28:40 ||0:00:28||functional groups||1||11
+lavernek1||Thu Sep 21 2017 11:29:11 ||Thu Sep 21 2017 11:33:17 ||0:04:06||pkas||1||28
+lavernek1||Thu Sep 21 2017 11:33:41 ||Thu Sep 21 2017 11:34:50 ||0:01:08||pkas||1||26
+lavernek1||Thu Sep 21 2017 11:35:12 ||Thu Sep 21 2017 11:36:13 ||0:01:00||pkas||1||23
+guethleina1||Thu Sep 21 2017 13:26:35 ||Thu Sep 21 2017 13:30:55 ||0:04:20||functional groups||1||18
+guethleina1||Thu Sep 21 2017 13:31:02 ||Thu Sep 21 2017 13:33:15 ||0:02:13||functional groups||1||19
+mcbrided2||Thu Sep 21 2017 17:51:49 ||Thu Sep 21 2017 17:54:54 ||0:03:04||functional groups||1||43
+mcbrided2||Thu Sep 21 2017 17:55:32 ||Thu Sep 21 2017 17:57:09 ||0:01:37||functional groups||1||25
+mcbrided2||Thu Sep 21 2017 17:57:54 ||Thu Sep 21 2017 17:59:18 ||0:01:24||functional groups||1||28
+mcbrided2||Thu Sep 21 2017 18:01:38 ||Thu Sep 21 2017 18:02:45 ||0:01:07||functional groups||1||14
+guethleina1||Thu Sep 21 2017 18:02:44 ||Thu Sep 21 2017 18:04:12 ||0:01:28||orbitals||1||19
+mcbrided2||Thu Sep 21 2017 18:03:02 ||Thu Sep 21 2017 18:04:10 ||0:01:08||functional groups||1||21
+guethleina1||Thu Sep 21 2017 18:04:15 ||Thu Sep 21 2017 18:05:31 ||0:01:15||orbitals||1||22
+mcbrided2||Thu Sep 21 2017 18:04:47 ||Thu Sep 21 2017 18:06:14 ||0:01:27||functional groups||1||28
+mcbrided2||Thu Sep 21 2017 18:07:06 ||Thu Sep 21 2017 18:06:14 ||0:00:06||pkas||0||1
+guethleina1||Thu Sep 21 2017 18:05:41 ||Thu Sep 21 2017 18:07:25 ||0:01:44||pkas||1||29
+guethleina1||Thu Sep 21 2017 18:07:33 ||Thu Sep 21 2017 18:09:02 ||0:01:29||pkas||1||23
+mcbrided2||Thu Sep 21 2017 18:07:12 ||Thu Sep 21 2017 18:09:02 ||0:01:50||pkas||1||33
+guethleina1||Thu Sep 21 2017 18:09:05 ||Thu Sep 21 2017 18:10:13 ||0:01:08||pkas||1||23
+mcbrided2||Thu Sep 21 2017 18:09:24 ||Thu Sep 21 2017 18:10:33 ||0:01:09||pkas||1||23
+guethleina1||Thu Sep 21 2017 18:10:15 ||Thu Sep 21 2017 18:11:12 ||0:00:57||pkas||1||19
+guethleina1||Thu Sep 21 2017 18:11:19 ||Thu Sep 21 2017 18:12:11 ||0:00:52||functional groups||1||16
+mcbrided2||Thu Sep 21 2017 18:11:04 ||Thu Sep 21 2017 18:12:23 ||0:01:19||pkas||1||27
+guethleina1||Thu Sep 21 2017 18:12:13 ||Thu Sep 21 2017 18:13:11 ||0:00:58||functional groups||1||17
+mcbrided2||Thu Sep 21 2017 18:12:26 ||Thu Sep 21 2017 18:13:58 ||0:01:32||pkas||1||26
+guethleina1||Thu Sep 21 2017 18:13:26 ||Thu Sep 21 2017 18:14:28 ||0:01:01||functional groups||1||19
+mcbrided2||Thu Sep 21 2017 18:14:35 ||Thu Sep 21 2017 18:15:41 ||0:01:06||pkas||1||21
+guethleina1||Thu Sep 21 2017 18:14:30 ||Thu Sep 21 2017 18:15:47 ||0:01:17||functional groups||1||18
+guethleina1||Thu Sep 21 2017 18:16:37 ||Thu Sep 21 2017 18:17:45 ||0:01:08||functional groups||1||21
+guethleina1||Thu Sep 21 2017 18:17:50 ||Thu Sep 21 2017 18:18:43 ||0:00:53||functional groups||1||19
+guethleina1||Thu Sep 21 2017 18:18:57 ||Thu Sep 21 2017 18:20:00 ||0:01:03||functional groups||1||21
+richardsk6||Thu Sep 21 2017 22:07:34 ||Thu Sep 21 2017 22:10:09 ||0:02:35||orbitals||1||31
+richardsk6||Thu Sep 21 2017 22:11:36 ||Thu Sep 21 2017 22:13:38 ||0:02:02||pkas||1||19
+hawkinss3||Thu Sep 21 2017 22:09:00 ||Thu Sep 21 2017 22:13:46 ||0:04:46||functional groups||1||23
+richardsk6||Thu Sep 21 2017 22:14:19 ||Thu Sep 21 2017 22:15:42 ||0:01:23||pkas||1||19
+richardsk6||Thu Sep 21 2017 22:22:49 ||Thu Sep 21 2017 22:24:32 ||0:01:43||pkas||1||26
+richardsk6||Thu Sep 21 2017 22:26:18 ||Thu Sep 21 2017 22:27:37 ||0:01:18||pkas||1||21
+estepj2||Thu Sep 21 2017 22:28:04 ||Thu Sep 21 2017 22:29:55 ||0:01:51||pkas||1||32
+wesselsm1||Thu Sep 21 2017 22:28:49 ||Thu Sep 21 2017 22:29:59 ||0:01:09||pkas||1||24
+wesselsm1||Thu Sep 21 2017 22:30:06 ||Thu Sep 21 2017 22:31:09 ||0:01:03||pkas||1||21
+wesselsm1||Thu Sep 21 2017 22:31:15 ||Thu Sep 21 2017 22:32:09 ||0:00:53||pkas||1||18
+richardsk6||Thu Sep 21 2017 22:31:05 ||Thu Sep 21 2017 22:32:39 ||0:01:34||pkas||1||25
+estepj2||Thu Sep 21 2017 22:31:21 ||Thu Sep 21 2017 22:32:43 ||0:01:21||functional groups||1||25
+wesselsm1||Thu Sep 21 2017 22:32:18 ||Thu Sep 21 2017 22:33:25 ||0:01:07||pkas||1||24
+richardsk6||Thu Sep 21 2017 22:33:40 ||Thu Sep 21 2017 22:34:35 ||0:00:55||pkas||1||15
+hawkinss3||Thu Sep 21 2017 22:14:02 ||Thu Sep 21 2017 22:34:55 ||0:20:53||functional groups||1||14
+wesselsm1||Thu Sep 21 2017 22:33:32 ||Thu Sep 21 2017 22:34:59 ||0:01:27||pkas||1||29
+hawkinss3||Thu Sep 21 2017 22:34:58 ||Thu Sep 21 2017 22:36:00 ||0:01:02||functional groups||1||19
+wesselsm1||Thu Sep 21 2017 22:35:06 ||Thu Sep 21 2017 22:36:01 ||0:00:55||pkas||1||20
+hawkinss3||Thu Sep 21 2017 22:36:03 ||Thu Sep 21 2017 22:37:13 ||0:01:10||functional groups||1||19
+wesselsm1||Thu Sep 21 2017 22:36:06 ||Thu Sep 21 2017 22:37:13 ||0:01:06||pkas||1||25
+hawkinss3||Thu Sep 21 2017 22:37:14 ||Thu Sep 21 2017 22:38:04 ||0:00:50||functional groups||1||17
+wesselsm1||Thu Sep 21 2017 22:37:18 ||Thu Sep 21 2017 22:38:23 ||0:01:05||pkas||1||22
+wesselsm1||Thu Sep 21 2017 22:38:31 ||Thu Sep 21 2017 22:39:29 ||0:00:58||pkas||1||21
+wesselsm1||Thu Sep 21 2017 22:39:39 ||Thu Sep 21 2017 22:40:26 ||0:00:46||functional groups||1||12
+richardsk6||Thu Sep 21 2017 22:40:28 ||Thu Sep 21 2017 22:34:35 ||0:02:05||pkas||0||13
+richardsk6||Thu Sep 21 2017 22:42:33 ||Thu Sep 21 2017 22:44:12 ||0:01:39||pkas||1||26
+richardsk6||Thu Sep 21 2017 22:45:33 ||Thu Sep 21 2017 22:46:26 ||0:00:52||pkas||1||16
+richardsk6||Thu Sep 21 2017 22:48:33 ||Thu Sep 21 2017 22:49:57 ||0:01:24||pkas||1||22
+richardsk6||Thu Sep 21 2017 22:50:13 ||Thu Sep 21 2017 22:51:31 ||0:01:18||pkas||1||22
+richardsk6||Thu Sep 21 2017 22:52:02 ||Thu Sep 21 2017 22:53:02 ||0:01:00||pkas||1||17
+richardsk6||Thu Sep 21 2017 22:59:44 ||Thu Sep 21 2017 23:02:02 ||0:02:18||functional groups||1||31
+richardsk6||Thu Sep 21 2017 23:03:04 ||Thu Sep 21 2017 23:04:05 ||0:01:01||functional groups||1||17
+richardsk6||Thu Sep 21 2017 23:05:42 ||Thu Sep 21 2017 23:06:47 ||0:01:04||functional groups||1||17
+richardsk6||Thu Sep 21 2017 23:09:28 ||Thu Sep 21 2017 23:10:26 ||0:00:58||functional groups||1||16
+richardsk6||Thu Sep 21 2017 23:10:37 ||Thu Sep 21 2017 23:11:36 ||0:00:59||functional groups||1||16
+richardsk6||Thu Sep 21 2017 23:14:44 ||Thu Sep 21 2017 23:15:34 ||0:00:50||functional groups||1||17
+richardsk6||Thu Sep 21 2017 23:18:05 ||Thu Sep 21 2017 23:19:09 ||0:01:04||functional groups||1||19
+richardsk6||Thu Sep 21 2017 23:19:59 ||Thu Sep 21 2017 23:21:18 ||0:01:19||functional groups||1||19
+richardsk6||Thu Sep 21 2017 23:22:29 ||Thu Sep 21 2017 23:23:48 ||0:01:19||functional groups||1||21
+richardsk6||Thu Sep 21 2017 23:25:16 ||Thu Sep 21 2017 23:26:16 ||0:01:00||functional groups||1||18
+richardsk6||Thu Sep 21 2017 23:26:37 ||Thu Sep 21 2017 23:27:19 ||0:00:42||functional groups||1||14
+richardsk6||Thu Sep 21 2017 23:27:39 ||Thu Sep 21 2017 23:29:17 ||0:01:38||functional groups||1||25
+richardsk6||Thu Sep 21 2017 23:29:35 ||Thu Sep 21 2017 23:30:37 ||0:01:02||functional groups||1||20
+richardsk6||Thu Sep 21 2017 23:31:17 ||Thu Sep 21 2017 23:32:07 ||0:00:49||functional groups||1||16
+richardsk6||Thu Sep 21 2017 23:32:41 ||Thu Sep 21 2017 23:34:00 ||0:01:19||functional groups||1||21
+richardsk6||Thu Sep 21 2017 23:44:00 ||Thu Sep 21 2017 23:46:39 ||0:02:39||functional groups||1||20
+richardsk6||Thu Sep 21 2017 23:47:46 ||Thu Sep 21 2017 23:49:11 ||0:01:25||functional groups||1||20
+arnoldd5||Fri Sep 22 2017 00:24:56 ||Fri Sep 22 2017 00:28:10 ||0:03:14||functional groups||1||16
+arnoldd5||Fri Sep 22 2017 00:30:02 ||Fri Sep 22 2017 00:31:27 ||0:01:24||functional groups||1||19
+arnoldd5||Fri Sep 22 2017 00:31:30 ||Fri Sep 22 2017 00:32:28 ||0:00:57||functional groups||1||17
+arnoldd5||Fri Sep 22 2017 00:35:12 ||Fri Sep 22 2017 00:36:42 ||0:01:30||pkas||1||20
+arnoldd5||Fri Sep 22 2017 00:36:50 ||Fri Sep 22 2017 00:37:55 ||0:01:04||pkas||1||15
+arnoldd5||Fri Sep 22 2017 00:37:59 ||Fri Sep 22 2017 00:39:48 ||0:01:49||pkas||1||22
+arnoldd5||Fri Sep 22 2017 00:43:08 ||Fri Sep 22 2017 00:44:23 ||0:01:15||functional groups||1||14
+arnoldd5||Fri Sep 22 2017 00:44:27 ||Fri Sep 22 2017 00:46:07 ||0:01:39||functional groups||1||18
+arnoldd5||Fri Sep 22 2017 00:47:39 ||Fri Sep 22 2017 00:49:13 ||0:01:34||functional groups||1||17
+arnoldd5||Fri Sep 22 2017 00:49:39 ||Fri Sep 22 2017 00:50:55 ||0:01:15||functional groups||1||16
+arnoldd5||Fri Sep 22 2017 00:51:24 ||Fri Sep 22 2017 00:53:05 ||0:01:41||functional groups||1||18
+arnoldd5||Fri Sep 22 2017 00:53:10 ||Fri Sep 22 2017 00:54:28 ||0:01:18||functional groups||1||17
+arnoldd5||Fri Sep 22 2017 00:54:33 ||Fri Sep 22 2017 00:56:14 ||0:01:41||functional groups||1||21
+arnoldd5||Fri Sep 22 2017 00:56:20 ||Fri Sep 22 2017 00:57:41 ||0:01:21||functional groups||1||20
+arnoldd5||Fri Sep 22 2017 00:57:45 ||Fri Sep 22 2017 00:58:49 ||0:01:04||functional groups||1||16
+arnoldd5||Fri Sep 22 2017 00:58:54 ||Fri Sep 22 2017 01:00:26 ||0:01:32||functional groups||1||20
+arnoldd5||Fri Sep 22 2017 01:00:30 ||Fri Sep 22 2017 01:01:39 ||0:01:09||functional groups||1||15
+arnoldd5||Fri Sep 22 2017 01:04:25 ||Fri Sep 22 2017 01:05:24 ||0:00:59||orbitals||1||14
+richardsk6||Fri Sep 22 2017 03:15:34 ||Fri Sep 22 2017 03:16:53 ||0:01:18||functional groups||1||15
+richardsk6||Fri Sep 22 2017 03:17:04 ||Fri Sep 22 2017 03:17:50 ||0:00:46||functional groups||1||12
+richardsk6||Fri Sep 22 2017 03:17:55 ||Fri Sep 22 2017 03:19:06 ||0:01:10||functional groups||1||15
+richardsk6||Fri Sep 22 2017 03:19:29 ||Fri Sep 22 2017 03:20:45 ||0:01:16||functional groups||1||21
+richardsk6||Fri Sep 22 2017 03:21:01 ||Fri Sep 22 2017 03:22:13 ||0:01:12||functional groups||1||20
+richardsk6||Fri Sep 22 2017 03:22:37 ||Fri Sep 22 2017 03:23:25 ||0:00:48||functional groups||1||16
+richardsk6||Fri Sep 22 2017 03:23:29 ||Fri Sep 22 2017 03:24:53 ||0:01:24||functional groups||1||20
+richardsk6||Fri Sep 22 2017 03:25:05 ||Fri Sep 22 2017 03:26:09 ||0:01:04||functional groups||1||20
+richardsk6||Fri Sep 22 2017 03:26:17 ||Fri Sep 22 2017 03:27:28 ||0:01:11||pkas||1||19
+richardsk6||Fri Sep 22 2017 03:27:36 ||Fri Sep 22 2017 03:28:27 ||0:00:50||pkas||1||16
+arnoldd5||Fri Sep 22 2017 03:27:46 ||Fri Sep 22 2017 03:29:21 ||0:01:35||functional groups||1||18
+richardsk6||Fri Sep 22 2017 03:28:38 ||Fri Sep 22 2017 03:30:00 ||0:01:22||pkas||1||21
+arnoldd5||Fri Sep 22 2017 03:29:24 ||Fri Sep 22 2017 03:30:40 ||0:01:16||functional groups||1||20
+richardsk6||Fri Sep 22 2017 03:30:06 ||Fri Sep 22 2017 03:30:55 ||0:00:49||pkas||1||15
+arnoldd5||Fri Sep 22 2017 03:30:50 ||Fri Sep 22 2017 03:31:48 ||0:00:58||pkas||1||12
+richardsk6||Fri Sep 22 2017 03:31:19 ||Fri Sep 22 2017 03:33:13 ||0:01:54||orbitals||1||29
+arnoldd5||Fri Sep 22 2017 03:31:52 ||Fri Sep 22 2017 03:33:21 ||0:01:29||pkas||1||19
+richardsk6||Fri Sep 22 2017 03:33:39 ||Fri Sep 22 2017 03:34:34 ||0:00:55||orbitals||1||16
+arnoldd5||Fri Sep 22 2017 03:34:12 ||Fri Sep 22 2017 03:36:06 ||0:01:53||pkas||1||22
+richardsk6||Fri Sep 22 2017 03:34:40 ||Fri Sep 22 2017 03:36:11 ||0:01:31||orbitals||1||29
+richardsk6||Fri Sep 22 2017 03:36:17 ||Fri Sep 22 2017 03:37:10 ||0:00:53||orbitals||1||16
+okoronkwoc1||Fri Sep 22 2017 08:25:35 ||Fri Sep 22 2017 08:27:20 ||0:01:45||pkas||1||18
+okoronkwoc1||Fri Sep 22 2017 08:27:28 ||Fri Sep 22 2017 08:27:20 ||0:00:55||functional groups||0||1
+okoronkwoc1||Fri Sep 22 2017 08:28:24 ||Fri Sep 22 2017 08:29:31 ||0:01:07||functional groups||1||16
+okoronkwoc1||Fri Sep 22 2017 08:29:36 ||Fri Sep 22 2017 08:29:31 ||0:00:11||functional groups||0||1
+okoronkwoc1||Fri Sep 22 2017 08:29:47 ||Fri Sep 22 2017 08:30:53 ||0:01:06||functional groups||1||15
+pronka1||Fri Sep 22 2017 08:28:41 ||Fri Sep 22 2017 08:31:27 ||0:02:46||pkas||1||27
+okoronkwoc1||Fri Sep 22 2017 08:31:02 ||Fri Sep 22 2017 08:32:14 ||0:01:11||functional groups||1||17
+okoronkwoc1||Fri Sep 22 2017 08:33:02 ||Fri Sep 22 2017 08:34:22 ||0:01:19||functional groups||1||21
+okoronkwoc1||Fri Sep 22 2017 08:34:28 ||Fri Sep 22 2017 08:35:47 ||0:01:19||pkas||1||16
+okoronkwoc1||Fri Sep 22 2017 08:35:51 ||Fri Sep 22 2017 08:37:19 ||0:01:27||pkas||1||21
+okoronkwoc1||Fri Sep 22 2017 08:37:22 ||Fri Sep 22 2017 08:38:31 ||0:01:09||pkas||1||16
+pronka1||Fri Sep 22 2017 08:37:55 ||Fri Sep 22 2017 08:40:14 ||0:02:19||pkas||1||22
+okoronkwoc1||Fri Sep 22 2017 08:39:06 ||Fri Sep 22 2017 08:40:39 ||0:01:33||functional groups||1||19
+fossitth1||Fri Sep 22 2017 08:42:13 ||Fri Sep 22 2017 08:43:02 ||0:00:49||functional groups||1||14
+fossitth1||Fri Sep 22 2017 08:43:06 ||Fri Sep 22 2017 08:46:14 ||0:03:08||functional groups||1||16
+pronka1||Fri Sep 22 2017 08:41:05 ||Fri Sep 22 2017 08:48:18 ||0:07:13||orbitals||1||17
+fossitth1||Fri Sep 22 2017 08:46:41 ||Fri Sep 22 2017 08:49:20 ||0:02:39||pkas||1||21
+mcbrided2||Fri Sep 22 2017 08:57:35 ||Fri Sep 22 2017 08:58:56 ||0:01:21||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 08:59:11 ||Fri Sep 22 2017 09:00:03 ||0:00:52||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 09:00:28 ||Fri Sep 22 2017 09:01:20 ||0:00:51||functional groups||1||17
+mcbrided2||Fri Sep 22 2017 09:01:28 ||Fri Sep 22 2017 09:02:12 ||0:00:44||functional groups||1||17
+mcbrided2||Fri Sep 22 2017 09:02:24 ||Fri Sep 22 2017 09:03:20 ||0:00:56||functional groups||1||20
+mcbrided2||Fri Sep 22 2017 09:03:31 ||Fri Sep 22 2017 09:04:38 ||0:01:07||functional groups||1||22
+mcbrided2||Fri Sep 22 2017 09:04:45 ||Fri Sep 22 2017 09:05:25 ||0:00:40||functional groups||1||15
+mcbrided2||Fri Sep 22 2017 09:06:32 ||Fri Sep 22 2017 09:07:22 ||0:00:50||pkas||1||15
+mcbrided2||Fri Sep 22 2017 09:07:37 ||Fri Sep 22 2017 09:08:28 ||0:00:50||pkas||1||16
+mcbrided2||Fri Sep 22 2017 09:08:40 ||Fri Sep 22 2017 09:09:36 ||0:00:56||pkas||1||21
+mcbrided2||Fri Sep 22 2017 09:10:23 ||Fri Sep 22 2017 09:11:36 ||0:01:13||pkas||1||22
+mcbrided2||Fri Sep 22 2017 09:11:46 ||Fri Sep 22 2017 09:12:24 ||0:00:38||pkas||1||14
+mcbrided2||Fri Sep 22 2017 09:12:31 ||Fri Sep 22 2017 09:13:22 ||0:00:51||pkas||1||19
+mcbrided2||Fri Sep 22 2017 09:14:38 ||Fri Sep 22 2017 09:15:50 ||0:01:11||pkas||1||24
+mcbrided2||Fri Sep 22 2017 09:15:55 ||Fri Sep 22 2017 09:16:35 ||0:00:40||pkas||1||13
+mcbrided2||Fri Sep 22 2017 09:23:43 ||Fri Sep 22 2017 09:24:36 ||0:00:53||pkas||1||20
+mcbrided2||Fri Sep 22 2017 09:24:57 ||Fri Sep 22 2017 09:25:39 ||0:00:42||pkas||1||15
+fossitth1||Fri Sep 22 2017 09:25:58 ||Fri Sep 22 2017 09:30:14 ||0:04:16||pkas||1||18
+mcbrided2||Fri Sep 22 2017 09:31:01 ||Fri Sep 22 2017 09:31:41 ||0:00:39||pkas||1||13
+mcbrided2||Fri Sep 22 2017 09:32:02 ||Fri Sep 22 2017 09:33:00 ||0:00:58||pkas||1||20
+mcbrided2||Fri Sep 22 2017 09:33:05 ||Fri Sep 22 2017 09:33:49 ||0:00:44||pkas||1||16
+fossitth1||Fri Sep 22 2017 09:30:23 ||Fri Sep 22 2017 09:34:21 ||0:03:58||pkas||1||25
+mcbrided2||Fri Sep 22 2017 09:33:57 ||Fri Sep 22 2017 09:34:43 ||0:00:46||functional groups||1||15
+fossitth1||Fri Sep 22 2017 09:34:28 ||Fri Sep 22 2017 09:35:33 ||0:01:05||pkas||1||19
+mcbrided2||Fri Sep 22 2017 09:34:48 ||Fri Sep 22 2017 09:35:57 ||0:01:09||functional groups||1||24
+mcbrided2||Fri Sep 22 2017 09:36:00 ||Fri Sep 22 2017 09:36:34 ||0:00:33||functional groups||1||13
+fossitth1||Fri Sep 22 2017 09:35:35 ||Fri Sep 22 2017 09:39:12 ||0:03:36||pkas||1||27
+fossitth1||Fri Sep 22 2017 09:39:22 ||Fri Sep 22 2017 09:42:25 ||0:03:03||pkas||1||44
+mcbrided2||Fri Sep 22 2017 09:42:35 ||Fri Sep 22 2017 09:43:09 ||0:00:34||functional groups||1||14
+mcbrided2||Fri Sep 22 2017 09:43:24 ||Fri Sep 22 2017 09:44:07 ||0:00:42||functional groups||1||16
+mcbrided2||Fri Sep 22 2017 09:44:33 ||Fri Sep 22 2017 09:45:14 ||0:00:40||functional groups||1||15
+mcbrided2||Fri Sep 22 2017 09:45:25 ||Fri Sep 22 2017 09:45:57 ||0:00:32||functional groups||1||13
+mcbrided2||Fri Sep 22 2017 09:46:01 ||Fri Sep 22 2017 09:46:37 ||0:00:36||functional groups||1||15
+mcbrided2||Fri Sep 22 2017 09:47:38 ||Fri Sep 22 2017 09:48:02 ||0:00:23||functional groups||1||10
+mcbrided2||Fri Sep 22 2017 09:48:23 ||Fri Sep 22 2017 09:49:39 ||0:01:16||pkas||1||25
+fredettee1||Fri Sep 22 2017 09:52:37 ||Fri Sep 22 2017 09:53:38 ||0:01:00||orbitals||1||18
+fredettee1||Fri Sep 22 2017 09:54:07 ||Fri Sep 22 2017 09:55:10 ||0:01:03||pkas||1||18
+fredettee1||Fri Sep 22 2017 09:55:11 ||Fri Sep 22 2017 09:56:22 ||0:01:11||pkas||1||24
+fredettee1||Fri Sep 22 2017 09:56:25 ||Fri Sep 22 2017 09:57:38 ||0:01:12||pkas||1||26
+fredettee1||Fri Sep 22 2017 09:57:46 ||Fri Sep 22 2017 09:58:19 ||0:00:33||pkas||1||13
+fredettee1||Fri Sep 22 2017 09:58:23 ||Fri Sep 22 2017 09:59:30 ||0:01:07||pkas||1||24
+fredettee1||Fri Sep 22 2017 09:59:36 ||Fri Sep 22 2017 10:00:33 ||0:00:56||pkas||1||21
+hawkinss3||Fri Sep 22 2017 09:56:31 ||Fri Sep 22 2017 10:01:30 ||0:04:59||functional groups||1||20
+fredettee1||Fri Sep 22 2017 10:00:35 ||Fri Sep 22 2017 10:02:26 ||0:01:51||pkas||1||25
+mcbrided2||Fri Sep 22 2017 10:02:16 ||Fri Sep 22 2017 10:03:14 ||0:00:57||pkas||1||19
+powellk7||Fri Sep 22 2017 10:01:36 ||Fri Sep 22 2017 10:03:20 ||0:01:44||pkas||1||28
+fredettee1||Fri Sep 22 2017 10:02:31 ||Fri Sep 22 2017 10:03:34 ||0:01:03||pkas||1||22
+guethleina1||Fri Sep 22 2017 10:02:05 ||Fri Sep 22 2017 10:03:37 ||0:01:32||functional groups||1||22
+fredettee1||Fri Sep 22 2017 10:03:37 ||Fri Sep 22 2017 10:04:21 ||0:00:44||pkas||1||17
+troass1||Fri Sep 22 2017 10:03:14 ||Fri Sep 22 2017 10:04:44 ||0:01:30||functional groups||1||25
+fredettee1||Fri Sep 22 2017 10:04:43 ||Fri Sep 22 2017 10:05:42 ||0:00:59||functional groups||1||18
+troass1||Fri Sep 22 2017 10:04:51 ||Fri Sep 22 2017 10:06:32 ||0:01:41||functional groups||1||22
+fredettee1||Fri Sep 22 2017 10:05:45 ||Fri Sep 22 2017 10:06:48 ||0:01:03||functional groups||1||20
+guethleina1||Fri Sep 22 2017 10:06:03 ||Fri Sep 22 2017 10:07:05 ||0:01:02||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 10:06:12 ||Fri Sep 22 2017 10:07:15 ||0:01:03||pkas||1||15
+fredettee1||Fri Sep 22 2017 10:06:52 ||Fri Sep 22 2017 10:07:49 ||0:00:57||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 10:07:17 ||Fri Sep 22 2017 10:08:22 ||0:01:04||pkas||1||15
+fredettee1||Fri Sep 22 2017 10:07:54 ||Fri Sep 22 2017 10:08:32 ||0:00:38||functional groups||1||13
+foltzk||Fri Sep 22 2017 10:07:31 ||Fri Sep 22 2017 10:08:55 ||0:01:23||pkas||1||19
+troass1||Fri Sep 22 2017 10:06:49 ||Fri Sep 22 2017 10:09:15 ||0:02:26||pkas||1||30
+fredettee1||Fri Sep 22 2017 10:08:35 ||Fri Sep 22 2017 10:09:25 ||0:00:50||functional groups||1||15
+fredettee1||Fri Sep 22 2017 10:09:41 ||Fri Sep 22 2017 10:10:21 ||0:00:40||functional groups||1||13
+mcbrided2||Fri Sep 22 2017 10:08:27 ||Fri Sep 22 2017 10:10:34 ||0:02:06||pkas||1||25
+lavernek1||Fri Sep 22 2017 10:10:17 ||Fri Sep 22 2017 10:11:09 ||0:00:52||functional groups||1||16
+fredettee1||Fri Sep 22 2017 10:10:23 ||Fri Sep 22 2017 10:11:16 ||0:00:53||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 10:10:55 ||Fri Sep 22 2017 10:11:52 ||0:00:57||functional groups||1||18
+fredettee1||Fri Sep 22 2017 10:11:18 ||Fri Sep 22 2017 10:12:14 ||0:00:56||functional groups||1||18
+fredettee1||Fri Sep 22 2017 10:12:17 ||Fri Sep 22 2017 10:13:14 ||0:00:57||functional groups||1||16
+mcbrided2||Fri Sep 22 2017 10:12:05 ||Fri Sep 22 2017 10:13:21 ||0:01:16||pkas||1||17
+foltzk||Fri Sep 22 2017 10:11:46 ||Fri Sep 22 2017 10:13:28 ||0:01:42||functional groups||1||20
+lavernek1||Fri Sep 22 2017 10:10:08 ||Fri Sep 22 2017 10:13:42 ||0:03:34||functional groups||1||26
+fredettee1||Fri Sep 22 2017 10:13:16 ||Fri Sep 22 2017 10:14:08 ||0:00:52||functional groups||1||18
+fredettee1||Fri Sep 22 2017 10:14:13 ||Fri Sep 22 2017 10:14:56 ||0:00:42||functional groups||1||15
+mcbrided2||Fri Sep 22 2017 10:14:50 ||Fri Sep 22 2017 10:15:25 ||0:00:35||functional groups||1||15
+fredettee1||Fri Sep 22 2017 10:15:01 ||Fri Sep 22 2017 10:15:34 ||0:00:33||functional groups||1||14
+lavernek1||Fri Sep 22 2017 10:15:06 ||Fri Sep 22 2017 10:13:42 ||0:00:59||pkas||0||1
+lavernek1||Fri Sep 22 2017 10:16:37 ||Fri Sep 22 2017 10:19:09 ||0:02:32||functional groups||1||30
+wesselsm1||Fri Sep 22 2017 10:31:28 ||Fri Sep 22 2017 10:32:25 ||0:00:56||pkas||1||20
+wesselsm1||Fri Sep 22 2017 10:32:31 ||Fri Sep 22 2017 10:33:21 ||0:00:50||pkas||1||20
+lavernek1||Fri Sep 22 2017 10:22:42 ||Fri Sep 22 2017 10:34:34 ||0:11:52||functional groups||1||25
+wesselsm1||Fri Sep 22 2017 10:33:27 ||Fri Sep 22 2017 10:34:46 ||0:01:19||functional groups||1||24
+lavernek1||Fri Sep 22 2017 10:34:57 ||Fri Sep 22 2017 10:36:08 ||0:01:11||functional groups||1||23
+lindseyr2||Fri Sep 22 2017 10:35:50 ||Fri Sep 22 2017 10:36:44 ||0:00:54||orbitals||1||20
+mcbrided2||Fri Sep 22 2017 10:36:15 ||Fri Sep 22 2017 10:37:14 ||0:00:59||functional groups||1||16
+lindseyr2||Fri Sep 22 2017 10:36:50 ||Fri Sep 22 2017 10:38:30 ||0:01:39||pkas||1||39
+mcbrided2||Fri Sep 22 2017 10:39:04 ||Fri Sep 22 2017 10:39:55 ||0:00:51||functional groups||1||16
+lindseyr2||Fri Sep 22 2017 10:38:36 ||Fri Sep 22 2017 10:40:17 ||0:01:40||functional groups||1||36
+mcbrided2||Fri Sep 22 2017 10:40:34 ||Fri Sep 22 2017 10:41:15 ||0:00:41||functional groups||1||16
+mcbrided2||Fri Sep 22 2017 10:42:28 ||Fri Sep 22 2017 10:43:17 ||0:00:48||functional groups||1||17
+mcbrided2||Fri Sep 22 2017 10:43:19 ||Fri Sep 22 2017 10:44:07 ||0:00:47||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 10:44:13 ||Fri Sep 22 2017 10:45:25 ||0:01:11||functional groups||1||14
+mcbrided2||Fri Sep 22 2017 10:45:29 ||Fri Sep 22 2017 10:46:05 ||0:00:36||functional groups||1||13
+mcbrided2||Fri Sep 22 2017 10:46:07 ||Fri Sep 22 2017 10:46:58 ||0:00:51||functional groups||1||19
+mcbrided2||Fri Sep 22 2017 10:47:39 ||Fri Sep 22 2017 10:48:26 ||0:00:47||functional groups||1||20
+mcbrided2||Fri Sep 22 2017 10:48:31 ||Fri Sep 22 2017 10:49:21 ||0:00:49||functional groups||1||15
+lavernek1||Fri Sep 22 2017 10:36:20 ||Fri Sep 22 2017 10:54:09 ||0:17:49||functional groups||1||26
+powellk7||Fri Sep 22 2017 10:03:58 ||Fri Sep 22 2017 10:55:42 ||0:51:43||pkas||1||25
+lindseyr2||Fri Sep 22 2017 11:52:45 ||Fri Sep 22 2017 11:53:30 ||0:00:45||orbitals||1||17
+lavernek1||Fri Sep 22 2017 10:54:13 ||Fri Sep 22 2017 10:54:09 ||1:10:14||functional groups||0||26
+lavernek1||Fri Sep 22 2017 12:04:27 ||Fri Sep 22 2017 12:06:44 ||0:02:17||functional groups||1||22
+lavernek1||Fri Sep 22 2017 12:06:49 ||Fri Sep 22 2017 12:10:03 ||0:03:13||functional groups||1||22
+lavernek1||Fri Sep 22 2017 12:10:08 ||Fri Sep 22 2017 12:13:15 ||0:03:07||functional groups||1||24
+lavernek1||Fri Sep 22 2017 12:13:17 ||Fri Sep 22 2017 12:18:21 ||0:05:04||functional groups||1||16
+fredettee1||Fri Sep 22 2017 12:22:01 ||Fri Sep 22 2017 12:23:04 ||0:01:03||functional groups||1||21
+fredettee1||Fri Sep 22 2017 12:23:09 ||Fri Sep 22 2017 12:24:01 ||0:00:52||functional groups||1||18
+fredettee1||Fri Sep 22 2017 12:24:03 ||Fri Sep 22 2017 12:24:47 ||0:00:44||functional groups||1||15
+fredettee1||Fri Sep 22 2017 12:24:49 ||Fri Sep 22 2017 12:25:28 ||0:00:38||functional groups||1||14
+fredettee1||Fri Sep 22 2017 12:25:30 ||Fri Sep 22 2017 12:26:06 ||0:00:36||functional groups||1||15
+fredettee1||Fri Sep 22 2017 12:26:09 ||Fri Sep 22 2017 12:26:46 ||0:00:37||functional groups||1||13
+fredettee1||Fri Sep 22 2017 12:26:49 ||Fri Sep 22 2017 12:27:29 ||0:00:40||functional groups||1||15
+fredettee1||Fri Sep 22 2017 12:27:32 ||Fri Sep 22 2017 12:28:13 ||0:00:41||functional groups||1||15
+fredettee1||Fri Sep 22 2017 12:28:17 ||Fri Sep 22 2017 12:29:02 ||0:00:45||functional groups||1||16
+lavernek1||Fri Sep 22 2017 12:18:25 ||Fri Sep 22 2017 12:29:48 ||0:11:22||functional groups||1||29
+fredettee1||Fri Sep 22 2017 12:29:27 ||Fri Sep 22 2017 12:30:19 ||0:00:51||pkas||1||15
+fredettee1||Fri Sep 22 2017 12:30:21 ||Fri Sep 22 2017 12:31:19 ||0:00:57||pkas||1||20
+fredettee1||Fri Sep 22 2017 12:31:31 ||Fri Sep 22 2017 12:32:04 ||0:00:33||orbitals||1||12
+lavernek1||Fri Sep 22 2017 12:29:58 ||Fri Sep 22 2017 12:29:48 ||0:14:24||orbitals||0||22
+powellk7||Fri Sep 22 2017 12:44:32 ||Fri Sep 22 2017 12:46:31 ||0:01:58||Orbitals||1||35
+powellk7||Fri Sep 22 2017 12:48:11 ||Fri Sep 22 2017 12:48:52 ||0:00:41||pkas||1||15
+powellk7||Fri Sep 22 2017 12:49:13 ||Fri Sep 22 2017 12:49:59 ||0:00:46||functional groups||1||15
+richardsk6||Fri Sep 22 2017 12:55:30 ||Fri Sep 22 2017 12:56:33 ||0:01:03||functional groups||1||17
+richardsk6||Fri Sep 22 2017 12:56:50 ||Fri Sep 22 2017 12:56:33 ||0:00:32||orbitals||0||6
+richardsk6||Fri Sep 22 2017 12:57:26 ||Fri Sep 22 2017 12:58:36 ||0:01:10||functional groups||1||17
+richardsk6||Fri Sep 22 2017 12:59:09 ||Fri Sep 22 2017 13:00:26 ||0:01:16||functional groups||1||22
+richardsk6||Fri Sep 22 2017 13:00:49 ||Fri Sep 22 2017 13:01:46 ||0:00:56||pkas||1||17
+richardsk6||Fri Sep 22 2017 13:04:16 ||Fri Sep 22 2017 13:06:01 ||0:01:44||orbitals||1||29
+mcbrided2||Fri Sep 22 2017 13:09:20 ||Fri Sep 22 2017 13:10:00 ||0:00:40||functional groups||1||16
+mcbrided2||Fri Sep 22 2017 13:10:02 ||Fri Sep 22 2017 13:10:54 ||0:00:52||functional groups||1||18
+mcbrided2||Fri Sep 22 2017 13:10:55 ||Fri Sep 22 2017 13:11:27 ||0:00:32||functional groups||1||14
+mcbrided2||Fri Sep 22 2017 13:11:31 ||Fri Sep 22 2017 13:12:34 ||0:01:03||functional groups||1||20
+mcbrided2||Fri Sep 22 2017 13:12:38 ||Fri Sep 22 2017 13:13:28 ||0:00:49||pkas||1||20
+mcbrided2||Fri Sep 22 2017 13:13:33 ||Fri Sep 22 2017 13:14:46 ||0:01:13||orbitals||1||24
+wesselsm1||Fri Sep 22 2017 13:23:34 ||Fri Sep 22 2017 13:24:18 ||0:00:43||functional groups||1||15
+arnoldd5||Fri Sep 22 2017 13:24:06 ||Fri Sep 22 2017 13:25:08 ||0:01:02||functional groups||1||18
+wesselsm1||Fri Sep 22 2017 13:24:25 ||Fri Sep 22 2017 13:25:40 ||0:01:15||functional groups||1||24
+arnoldd5||Fri Sep 22 2017 13:25:11 ||Fri Sep 22 2017 13:26:13 ||0:01:02||functional groups||1||21
+wesselsm1||Fri Sep 22 2017 13:25:52 ||Fri Sep 22 2017 13:26:55 ||0:01:03||functional groups||1||15
+arnoldd5||Fri Sep 22 2017 13:26:18 ||Fri Sep 22 2017 13:27:15 ||0:00:57||functional groups||1||18
+wesselsm1||Fri Sep 22 2017 13:27:04 ||Fri Sep 22 2017 13:28:13 ||0:01:09||functional groups||1||22
+arnoldd5||Fri Sep 22 2017 13:27:18 ||Fri Sep 22 2017 13:28:35 ||0:01:17||functional groups||1||18
+wesselsm1||Fri Sep 22 2017 13:28:20 ||Fri Sep 22 2017 13:29:06 ||0:00:45||functional groups||1||15
+fossitth1||Fri Sep 22 2017 13:22:47 ||Fri Sep 22 2017 13:37:11 ||0:14:24||pkas||1||23
+arnoldd5||Fri Sep 22 2017 13:38:41 ||Fri Sep 22 2017 13:39:38 ||0:00:56||functional groups||1||16
+arnoldd5||Fri Sep 22 2017 13:39:42 ||Fri Sep 22 2017 13:40:38 ||0:00:56||functional groups||1||19
+fredettee1||Fri Sep 22 2017 13:48:27 ||Fri Sep 22 2017 13:49:07 ||0:00:40||functional groups||1||13
+fossitth1||Fri Sep 22 2017 14:01:51 ||Fri Sep 22 2017 14:09:58 ||0:08:07||functional groups||1||12
+fossitth1||Fri Sep 22 2017 14:10:17 ||Fri Sep 22 2017 14:20:33 ||0:10:16||functional groups||1||16
+fossitth1||Fri Sep 22 2017 14:21:06 ||Fri Sep 22 2017 14:31:24 ||0:10:17||functional groups||1||19
+powellk7||Fri Sep 22 2017 14:41:03 ||Fri Sep 22 2017 14:41:45 ||0:00:41||functional groups||1||18
+troass1||Fri Sep 22 2017 15:02:05 ||Fri Sep 22 2017 15:04:00 ||0:01:55||pkas||1||18
+troass1||Fri Sep 22 2017 15:04:06 ||Fri Sep 22 2017 15:04:00 ||0:23:21||functional groups||0||1
+troass1||Fri Sep 22 2017 15:27:28 ||Fri Sep 22 2017 15:33:44 ||0:06:16||functional groups||1||16
+lavernek1||Fri Sep 29 2017 01:01:58 ||Fri Sep 29 2017 01:02:44 ||0:00:46||functional groups||1||14
+demo||Fri Sep 29 2017 13:58:24 ||||0:00:24||Orbitals||0||6
+demo||Fri Sep 29 2017 14:02:53 ||||1:30:49||sn2||0||1
+demo||Fri Sep 29 2017 15:33:42 ||Fri Sep 29 2017 15:34:53 ||0:01:11||sn2||1||23
+demo||Fri Sep 29 2017 15:42:48 ||||0:00:28||styrene||0||6
+demo||Fri Sep 29 2017 16:09:47 ||Fri Sep 29 2017 16:10:45 ||0:00:58||orbitals||1||22
+test01||Fri Sep 29 2017 16:11:20 ||Fri Sep 29 2017 16:12:31 ||0:01:11||pkas||1||22
+demo||Fri Sep 29 2017 19:05:07 ||||0:00:21||styrene||0||3
+demo||Fri Sep 29 2017 19:05:38 ||Fri Sep 29 2017 19:06:50 ||0:01:11||orbitals||1||21
+demo||Sat Sep 30 2017 16:01:02 ||Sat Sep 30 2017 16:02:16 ||0:01:14||styrene||1||25
+demo||Sat Sep 30 2017 16:10:06 ||Sat Sep 30 2017 16:11:33 ||0:01:27||acronyms||1||32
+demo||Sat Sep 30 2017 16:12:01 ||Sat Sep 30 2017 16:13:16 ||0:01:15||pkas||1||23
+demo||Sat Sep 30 2017 16:16:06 ||Sat Sep 30 2017 16:17:10 ||0:01:04||pkas||1||20
+demo||Sat Sep 30 2017 16:21:46 ||||0:00:40||orbitals||0||12
+demo||Sat Sep 30 2017 16:25:27 ||||0:03:52||Orbitals||0||18
+demo||Sat Sep 30 2017 19:28:39 ||Sat Sep 30 2017 19:30:10 ||0:01:30||orbitals||1||33
+demo||Sun Oct 01 2017 21:01:35 ||Sun Oct 01 2017 21:03:05 ||0:01:30||Orbitals||1||24
+demo||Fri Oct 06 2017 06:58:10 ||Fri Oct 06 2017 07:00:20 ||0:02:10||orbitals||1||25
+demo||Fri Oct 06 2017 07:03:43 ||Fri Oct 06 2017 07:06:06 ||0:02:23||Orbitals||1||37
+demo||Fri Oct 06 2017 07:07:06 ||Fri Oct 06 2017 07:08:34 ||0:01:28||Orbitals||1||23
+demo||Fri Oct 06 2017 07:09:52 ||Fri Oct 06 2017 07:08:34 ||0:00:59||Orbitals||0||18
+demo||Fri Oct 06 2017 07:10:51 ||Fri Oct 06 2017 07:11:44 ||0:00:53||Orbitals||1||22
+demo||Fri Oct 06 2017 07:13:29 ||Fri Oct 06 2017 07:14:08 ||0:00:39||Orbitals||1||17
+demo||Fri Oct 06 2017 07:16:38 ||Fri Oct 06 2017 07:14:08 ||0:00:24||Orbitals||0||6
+demo||Fri Oct 06 2017 07:17:06 ||Fri Oct 06 2017 07:14:08 ||0:00:22||Orbitals||0||7
+demo||Fri Oct 06 2017 07:17:37 ||Fri Oct 06 2017 07:14:08 ||0:00:36||Orbitals||0||14
+demo||Fri Oct 06 2017 07:19:53 ||Fri Oct 06 2017 07:14:08 ||0:00:26||Orbitals||0||13
+demo||Fri Oct 06 2017 07:20:58 ||Fri Oct 06 2017 07:14:08 ||0:00:32||Orbitals||0||11
+demo||Fri Oct 06 2017 07:23:13 ||||0:00:45||styrene||0||2
+demo||Fri Oct 06 2017 07:23:58 ||||0:00:10||styrene||0||1
+demo||Fri Oct 06 2017 07:25:16 ||||0:01:01||orbitals||0||2
+demo||Fri Oct 13 2017 08:42:55 ||Fri Oct 13 2017 08:43:54 ||0:00:59||pkas||1||21
+kones1||Fri Oct 13 2017 21:20:15 ||Fri Oct 13 2017 21:22:48 ||0:02:33||pkas||1||17
+kones1||Fri Oct 13 2017 21:23:06 ||Fri Oct 13 2017 21:26:40 ||0:03:34||pkas||1||14
+kones1||Sat Oct 14 2017 05:59:45 ||Sat Oct 14 2017 06:01:28 ||0:01:42||pkas||1||15
+kones1||Sat Oct 14 2017 06:01:32 ||Sat Oct 14 2017 06:03:42 ||0:02:10||pkas||1||22
+lavernek1||Mon Oct 16 2017 11:57:19 ||Mon Oct 16 2017 11:59:32 ||0:02:13||pkas||1||53
+lavernek1||Mon Oct 16 2017 12:00:38 ||Mon Oct 16 2017 12:01:35 ||0:00:56||pkas||1||27
+lavernek1||Mon Oct 16 2017 12:02:18 ||Mon Oct 16 2017 12:03:06 ||0:00:48||pkas||1||22
+lavernek1||Mon Oct 16 2017 12:03:34 ||Mon Oct 16 2017 12:04:23 ||0:00:49||pkas||1||21
+lavernek1||Mon Oct 16 2017 12:04:25 ||Mon Oct 16 2017 12:05:36 ||0:01:11||pkas||1||25
+lavernek1||Mon Oct 16 2017 12:05:38 ||Mon Oct 16 2017 12:06:41 ||0:01:03||pkas||1||24
+lavernek1||Mon Oct 16 2017 12:06:43 ||Mon Oct 16 2017 12:08:42 ||0:01:59||pkas||1||22
+lavernek1||Mon Oct 16 2017 12:08:44 ||Mon Oct 16 2017 12:09:51 ||0:01:06||pkas||1||29
+lavernek1||Mon Oct 16 2017 12:09:52 ||Mon Oct 16 2017 12:10:50 ||0:00:57||pkas||1||25
+lavernek1||Mon Oct 16 2017 12:10:52 ||Mon Oct 16 2017 12:11:34 ||0:00:41||pkas||1||18
+troass1||Mon Oct 16 2017 14:51:52 ||Mon Oct 16 2017 14:52:59 ||0:01:06||pkas||1||27
+fredettee1||Tue Oct 17 2017 14:32:52 ||Tue Oct 17 2017 14:33:50 ||0:00:58||pkas||1||15
+troass1||Tue Oct 17 2017 17:43:05 ||Tue Oct 17 2017 17:57:42 ||0:14:36||pkas||1||25
+troass1||Tue Oct 17 2017 19:35:18 ||Tue Oct 17 2017 20:33:13 ||0:57:54||pkas||1||19
+troass1||Wed Oct 18 2017 07:55:11 ||Wed Oct 18 2017 07:56:04 ||0:00:53||pkas||1||21
+troass1||Wed Oct 18 2017 07:56:18 ||Wed Oct 18 2017 07:57:11 ||0:00:53||functional groups||1||20
+troass1||Wed Oct 18 2017 07:57:24 ||Wed Oct 18 2017 07:57:56 ||0:00:32||functional groups||1||18
+richardsk6||Wed Oct 18 2017 10:05:20 ||Wed Oct 18 2017 10:06:34 ||0:01:14||pkas||1||27
+richardsk6||Wed Oct 18 2017 10:12:51 ||Wed Oct 18 2017 10:13:58 ||0:01:07||pkas||1||24
+richardsk6||Wed Oct 18 2017 10:14:53 ||Wed Oct 18 2017 10:16:30 ||0:01:37||pkas||1||40
+dupontn1||Wed Oct 18 2017 10:58:10 ||Wed Oct 18 2017 10:59:39 ||0:01:29||pkas||1||26
+dupontn1||Wed Oct 18 2017 10:59:42 ||Wed Oct 18 2017 11:00:58 ||0:01:16||pkas||1||23
+guethleina1||Wed Oct 18 2017 14:27:46 ||Wed Oct 18 2017 14:29:05 ||0:01:19||pkas||1||32
+guethleina1||Wed Oct 18 2017 14:29:07 ||Wed Oct 18 2017 14:30:02 ||0:00:54||pkas||1||24
+guethleina1||Wed Oct 18 2017 14:30:03 ||Wed Oct 18 2017 14:31:26 ||0:01:22||pkas||1||37
+richardsk6||Thu Oct 19 2017 03:11:22 ||Thu Oct 19 2017 03:12:22 ||0:01:00||pkas||1||19
+richardsk6||Thu Oct 19 2017 03:13:50 ||Thu Oct 19 2017 03:14:53 ||0:01:03||pkas||1||23
+richardsk6||Thu Oct 19 2017 03:15:14 ||Thu Oct 19 2017 03:16:37 ||0:01:23||pkas||1||29
+richardsk6||Thu Oct 19 2017 03:18:02 ||Thu Oct 19 2017 03:19:03 ||0:01:00||pkas||1||20
+richardsk6||Thu Oct 19 2017 03:19:44 ||Thu Oct 19 2017 03:21:11 ||0:01:27||pkas||1||29
+lavernek1||Thu Oct 19 2017 10:30:28 ||||0:00:30||pkas||0||2
+lavernek1||Thu Oct 19 2017 10:30:59 ||Thu Oct 19 2017 10:32:55 ||0:01:55||pkas||1||25
+lavernek1||Thu Oct 19 2017 10:33:17 ||Thu Oct 19 2017 10:34:18 ||0:01:01||pkas||1||27
+fredettee1||Thu Oct 19 2017 11:54:53 ||Thu Oct 19 2017 11:55:56 ||0:01:03||pkas||1||16
+fredettee1||Thu Oct 19 2017 11:56:02 ||Thu Oct 19 2017 11:56:38 ||0:00:36||pkas||1||15
+fredettee1||Thu Oct 19 2017 11:56:57 ||Thu Oct 19 2017 11:57:46 ||0:00:48||pkas||1||19
+fredettee1||Thu Oct 19 2017 11:58:08 ||Thu Oct 19 2017 11:59:02 ||0:00:53||pkas||1||16
+fredettee1||Thu Oct 19 2017 11:59:06 ||Thu Oct 19 2017 11:59:41 ||0:00:34||pkas||1||14
+dupontn1||Thu Oct 19 2017 17:02:10 ||Thu Oct 19 2017 17:04:05 ||0:01:54||pkas||1||42
+dupontn1||Thu Oct 19 2017 17:04:07 ||Thu Oct 19 2017 17:05:55 ||0:01:48||pkas||1||36
+dupontn1||Thu Oct 19 2017 17:05:58 ||Thu Oct 19 2017 17:07:16 ||0:01:17||pkas||1||25
+dupontn1||Thu Oct 19 2017 17:07:18 ||Thu Oct 19 2017 17:08:25 ||0:01:07||pkas||1||23
+dupontn1||Thu Oct 19 2017 17:08:26 ||Thu Oct 19 2017 17:09:45 ||0:01:19||pkas||1||28
+dupontn1||Thu Oct 19 2017 17:09:47 ||Thu Oct 19 2017 17:11:25 ||0:01:38||pkas||1||21
+dupontn1||Thu Oct 19 2017 17:11:27 ||Thu Oct 19 2017 17:12:44 ||0:01:17||pkas||1||25
+dupontn1||Thu Oct 19 2017 17:12:47 ||Thu Oct 19 2017 17:13:20 ||0:00:33||pkas||1||12
+dupontn1||Thu Oct 19 2017 17:13:22 ||Thu Oct 19 2017 17:14:27 ||0:01:05||pkas||1||27
+dupontn1||Thu Oct 19 2017 17:14:28 ||Thu Oct 19 2017 17:15:21 ||0:00:53||pkas||1||21
+dupontn1||Thu Oct 19 2017 17:15:33 ||Thu Oct 19 2017 17:16:54 ||0:01:20||pkas||1||29
+dupontn1||Thu Oct 19 2017 17:16:55 ||Thu Oct 19 2017 17:17:58 ||0:01:03||pkas||1||19
+dupontn1||Thu Oct 19 2017 17:18:00 ||Thu Oct 19 2017 17:19:59 ||0:01:59||pkas||1||32
+dupontn1||Thu Oct 19 2017 17:20:02 ||Thu Oct 19 2017 17:20:55 ||0:00:53||pkas||1||17
+armstrongk6||Thu Oct 19 2017 19:15:10 ||Thu Oct 19 2017 19:16:55 ||0:01:45||pkas||1||23
+armstrongk6||Thu Oct 19 2017 19:17:02 ||Thu Oct 19 2017 19:19:30 ||0:02:28||pkas||1||28
+armstrongk6||Thu Oct 19 2017 19:20:04 ||Thu Oct 19 2017 19:21:43 ||0:01:38||pkas||1||18
+armstrongk6||Thu Oct 19 2017 19:21:47 ||Thu Oct 19 2017 19:23:12 ||0:01:25||pkas||1||17
+khadaroom1||Thu Oct 19 2017 20:31:35 ||Thu Oct 19 2017 20:33:42 ||0:02:07||pkas||1||18
+khadaroom1||Thu Oct 19 2017 20:34:37 ||Thu Oct 19 2017 20:37:38 ||0:03:01||pkas||1||24
+wesselsm1||Thu Oct 19 2017 21:10:32 ||Thu Oct 19 2017 21:11:51 ||0:01:19||pkas||1||24
+wesselsm1||Thu Oct 19 2017 21:32:48 ||Thu Oct 19 2017 21:33:57 ||0:01:09||pkas||1||26
+wesselsm1||Thu Oct 19 2017 21:35:01 ||Thu Oct 19 2017 21:36:16 ||0:01:15||pkas||1||30
+dupontn1||Thu Oct 19 2017 22:35:42 ||Thu Oct 19 2017 22:36:33 ||0:00:51||pkas||1||17
+dupontn1||Thu Oct 19 2017 22:43:38 ||Thu Oct 19 2017 22:44:39 ||0:01:01||functional groups||1||21
+dupontn1||Thu Oct 19 2017 22:44:41 ||Thu Oct 19 2017 22:45:25 ||0:00:44||functional groups||1||18
+dupontn1||Thu Oct 19 2017 22:46:04 ||Thu Oct 19 2017 22:46:50 ||0:00:46||pkas||1||18
+dupontn1||Thu Oct 19 2017 22:46:53 ||Thu Oct 19 2017 22:48:05 ||0:01:12||pkas||1||26
+arnoldd5||Fri Oct 20 2017 01:29:17 ||Fri Oct 20 2017 01:30:46 ||0:01:29||pkas||1||17
+arnoldd5||Fri Oct 20 2017 01:30:52 ||Fri Oct 20 2017 01:33:36 ||0:02:44||pkas||1||24
+richardsk6||Fri Oct 20 2017 01:51:15 ||Fri Oct 20 2017 01:52:48 ||0:01:33||pkas||1||17
+richardsk6||Fri Oct 20 2017 01:55:30 ||Fri Oct 20 2017 01:56:32 ||0:01:02||pkas||1||17
+richardsk6||Fri Oct 20 2017 01:59:55 ||Fri Oct 20 2017 02:00:42 ||0:00:47||pkas||1||14
+richardsk6||Fri Oct 20 2017 02:01:39 ||Fri Oct 20 2017 02:02:53 ||0:01:14||pkas||1||23
+richardsk6||Fri Oct 20 2017 02:04:19 ||Fri Oct 20 2017 02:05:20 ||0:01:01||pkas||1||19
+richardsk6||Fri Oct 20 2017 02:07:14 ||Fri Oct 20 2017 02:08:11 ||0:00:57||pkas||1||16
+richardsk6||Fri Oct 20 2017 02:10:45 ||Fri Oct 20 2017 02:11:32 ||0:00:47||pkas||1||13
+troass1||Fri Oct 20 2017 08:00:49 ||Fri Oct 20 2017 08:02:34 ||0:01:45||pkas||1||42
+troass1||Fri Oct 20 2017 08:52:53 ||||0:00:07||pkas||0||1
+troass1||Fri Oct 20 2017 08:53:00 ||Fri Oct 20 2017 08:53:59 ||0:00:59||pkas||1||23
+troass1||Fri Oct 20 2017 08:54:21 ||Fri Oct 20 2017 08:55:09 ||0:00:48||pkas||1||22
+troass1||Fri Oct 20 2017 08:57:50 ||Fri Oct 20 2017 08:58:32 ||0:00:42||functional groups||1||13
+troass1||Fri Oct 20 2017 08:59:21 ||Fri Oct 20 2017 08:59:56 ||0:00:35||functional groups||1||15
+wesselsm1||Fri Oct 20 2017 13:06:07 ||Fri Oct 20 2017 13:07:14 ||0:01:07||pkas||1||22
+morgesonr1||Mon Oct 23 2017 18:48:32 ||Mon Oct 23 2017 18:49:30 ||0:00:58||functional groups||1||17
+morgesonr1||Mon Oct 23 2017 18:51:08 ||Mon Oct 23 2017 18:51:55 ||0:00:47||pkas||1||20
+demo||Wed Nov 08 2017 12:12:49 ||Wed Nov 08 2017 12:13:54 ||0:01:05||Orbitals||1||19
+demo||Wed Nov 08 2017 12:14:30 ||Wed Nov 08 2017 12:13:54 ||0:00:14||pkas||0||3
+demo||Wed Nov 08 2017 12:14:44 ||Wed Nov 08 2017 12:15:41 ||0:00:57||pkas||1||22
+demo||Mon Nov 20 2017 22:49:44 ||||0:00:27||Orbitals||0||6
+demo||Wed Nov 29 2017 09:28:03 ||Wed Nov 29 2017 09:28:53 ||0:00:50||functional groups||1||18
+demo||Wed Nov 29 2017 09:30:14 ||Wed Nov 29 2017 09:31:04 ||0:00:50||orbitals||1||15
+demo||Wed Nov 29 2017 09:32:18 ||Wed Nov 29 2017 09:32:51 ||0:00:32||pkas||1||13
+fredettee1||Sun Dec 10 2017 15:46:16 ||Sun Dec 10 2017 15:47:04 ||0:00:48||orbitals||1||17
+fredettee1||Sun Dec 10 2017 16:15:03 ||Sun Dec 10 2017 16:15:58 ||0:00:54||pkas||1||20
+fredettee1||Sun Dec 10 2017 16:16:01 ||Sun Dec 10 2017 16:16:51 ||0:00:49||pkas||1||21
+fredettee1||Sun Dec 10 2017 16:16:53 ||Sun Dec 10 2017 16:17:31 ||0:00:38||pkas||1||16
+fredettee1||Sun Dec 10 2017 16:17:51 ||Sun Dec 10 2017 16:18:27 ||0:00:36||functional groups||1||14
+fredettee1||Sun Dec 10 2017 16:18:29 ||Sun Dec 10 2017 16:19:07 ||0:00:38||functional groups||1||16
+fredettee1||Sun Dec 10 2017 17:00:00 ||Sun Dec 10 2017 17:01:23 ||0:01:23||pkas||1||36
+demo||Mon Jan 22 2018 14:20:30 ||Mon Jan 22 2018 14:21:13 ||0:00:43||sn2||1||15
+mcbrided2||Mon Jan 22 2018 14:32:57 ||||0:00:08||IR||0||1
+mcbrided2||Mon Jan 22 2018 14:33:10 ||Mon Jan 22 2018 14:34:46 ||0:01:36||IR||1||40
+moorer21||Tue Jan 23 2018 15:43:44 ||Tue Jan 23 2018 15:44:55 ||0:01:11||Orbitals||1||18
+moorer21||Tue Jan 23 2018 15:45:26 ||Tue Jan 23 2018 15:46:25 ||0:00:59||pkas||1||22
+moorer21||Tue Jan 23 2018 15:47:06 ||Tue Jan 23 2018 15:47:50 ||0:00:43||sn2||1||17
+moorer21||Tue Jan 23 2018 15:49:11 ||Tue Jan 23 2018 15:50:48 ||0:01:37||styrene||1||36
+fredettee1||Tue Jan 23 2018 17:08:34 ||Tue Jan 23 2018 17:09:36 ||0:01:02||IR||1||30
+fredettee1||Tue Jan 23 2018 17:09:51 ||Tue Jan 23 2018 17:11:01 ||0:01:10||IR||1||35
+demo||Thu Jan 25 2018 08:57:30 ||||0:00:22||IR||0||4
+allena15||Thu Jan 25 2018 10:23:12 ||Thu Jan 25 2018 10:24:58 ||0:01:46||Orbitals||1||19
+allena15||Thu Jan 25 2018 10:25:53 ||Thu Jan 25 2018 10:27:25 ||0:01:32||pkas||1||23
+allena15||Thu Jan 25 2018 10:31:01 ||Thu Jan 25 2018 10:33:26 ||0:02:25||IR||1||40
+allena15||Thu Jan 25 2018 10:33:38 ||Thu Jan 25 2018 10:35:58 ||0:02:20||IR||1||29
+troass1||Sat Feb 03 2018 20:39:33 ||Sat Feb 03 2018 20:40:06 ||0:00:32||functional groups||1||15
+troass1||Sat Feb 03 2018 20:40:24 ||Sat Feb 03 2018 20:40:55 ||0:00:31||functional groups||1||16
+demo||Mon Feb 05 2018 15:42:39 ||||0:00:07||styrene||0||3
+demo||Mon Feb 05 2018 15:43:11 ||||0:00:03||sn2||0||1
+demo||Mon Feb 05 2018 15:47:51 ||||0:00:19||pkas||0||5
+demo||Mon Feb 05 2018 15:50:06 ||||0:00:37||styrene||0||9
+demo||Mon Feb 05 2018 15:50:50 ||Mon Feb 05 2018 15:51:29 ||0:00:39||functional groups||1||14
+demo||Mon Feb 05 2018 15:58:34 ||||0:00:09||IR||0||2
+demo||Mon Feb 05 2018 15:58:44 ||Mon Feb 05 2018 15:59:58 ||0:01:14||IR||1||22
+demo||Mon Feb 05 2018 16:07:05 ||Mon Feb 05 2018 16:09:06 ||0:02:01||Orbitals||1||32
+demo||Tue Feb 06 2018 08:47:38 ||Tue Feb 06 2018 08:48:20 ||0:00:41||sn2||1||16
+demo||Mon Feb 12 2018 08:46:10 ||Mon Feb 12 2018 08:46:49 ||0:00:39||functional groups||1||12
+fangmana5||Mon Feb 12 2018 14:33:22 ||Mon Feb 12 2018 14:35:24 ||0:02:02||orbitals||1||30
+fangmana5||Mon Feb 12 2018 14:37:11 ||Mon Feb 12 2018 14:38:06 ||0:00:55||orbitals||1||19
+fangmana5||Mon Feb 12 2018 14:38:29 ||Mon Feb 12 2018 14:39:41 ||0:01:12||pkas||1||28
+fangmana5||Mon Feb 12 2018 14:39:54 ||Mon Feb 12 2018 14:40:55 ||0:01:01||pkas||1||24
+fangmana5||Mon Feb 12 2018 14:41:10 ||Mon Feb 12 2018 14:41:58 ||0:00:48||pkas||1||21
+fangmana5||Mon Feb 12 2018 14:42:02 ||Mon Feb 12 2018 14:42:46 ||0:00:44||pkas||1||20
+fangmana5||Mon Feb 12 2018 14:43:15 ||Mon Feb 12 2018 14:45:37 ||0:02:22||pkas||1||33
+fangmana5||Mon Feb 12 2018 14:45:51 ||Mon Feb 12 2018 14:47:15 ||0:01:24||pkas||1||34
+fangmana5||Mon Feb 12 2018 14:47:18 ||Mon Feb 12 2018 14:48:14 ||0:00:56||pkas||1||21
+fangmana5||Mon Feb 12 2018 14:48:46 ||Mon Feb 12 2018 14:49:55 ||0:01:09||pkas||1||28
+fangmana5||Mon Feb 12 2018 14:50:30 ||Mon Feb 12 2018 14:51:06 ||0:00:35||functional groups||1||14
+fangmana5||Mon Feb 12 2018 14:51:08 ||Mon Feb 12 2018 14:51:49 ||0:00:41||functional groups||1||17
+fangmana5||Mon Feb 12 2018 14:51:56 ||Mon Feb 12 2018 14:52:29 ||0:00:33||functional groups||1||17
+fangmana5||Mon Feb 12 2018 14:52:44 ||Mon Feb 12 2018 14:53:08 ||0:00:24||functional groups||1||13
+fangmana5||Mon Feb 12 2018 14:53:46 ||Mon Feb 12 2018 14:54:51 ||0:01:05||pkas||1||21
+morgesonr1||Wed Feb 14 2018 17:25:08 ||Wed Feb 14 2018 17:26:14 ||0:01:06||sn2||1||26
+elwellt1||Wed Feb 14 2018 17:42:56 ||Wed Feb 14 2018 17:43:48 ||0:00:52||sn2||1||20
+elwellt1||Wed Feb 14 2018 17:43:57 ||Wed Feb 14 2018 17:43:48 ||0:01:11||IR||0||3
+elwellt1||Wed Feb 14 2018 17:45:50 ||Wed Feb 14 2018 17:43:48 ||0:00:57||pkas||0||23
+elwellt1||Wed Feb 14 2018 17:46:48 ||Wed Feb 14 2018 17:47:48 ||0:00:59||pkas||1||26
+elwellt1||Wed Feb 14 2018 17:47:57 ||Wed Feb 14 2018 17:49:14 ||0:01:17||pkas||1||24
+elwellt1||Wed Feb 14 2018 17:49:17 ||Wed Feb 14 2018 17:50:56 ||0:01:39||pkas||1||38
+elwellt1||Wed Feb 14 2018 17:51:02 ||Wed Feb 14 2018 17:51:36 ||0:00:34||sn2||1||14
+elwellt1||Wed Feb 14 2018 17:51:39 ||Wed Feb 14 2018 17:51:36 ||0:00:10||pkas||0||3
+elwellt1||Wed Feb 14 2018 17:51:49 ||Wed Feb 14 2018 17:52:40 ||0:00:51||pkas||1||21
+elwellt1||Wed Feb 14 2018 17:52:43 ||Wed Feb 14 2018 17:53:21 ||0:00:37||pkas||1||16
+elwellt1||Wed Feb 14 2018 17:53:29 ||Wed Feb 14 2018 17:54:22 ||0:00:53||pkas||1||25
+elwellt1||Wed Feb 14 2018 17:54:32 ||Wed Feb 14 2018 17:54:22 ||0:00:43||IR||0||18
+guethleina1||Wed Feb 14 2018 19:29:02 ||Wed Feb 14 2018 19:29:39 ||0:00:37||pkas||1||14
+guethleina1||Wed Feb 14 2018 19:29:41 ||Wed Feb 14 2018 19:29:39 ||0:00:04||pkas||0||1
+guethleina1||Wed Feb 14 2018 19:29:45 ||Wed Feb 14 2018 19:30:18 ||0:00:33||pkas||1||16
+guethleina1||Wed Feb 14 2018 19:30:32 ||Wed Feb 14 2018 19:31:04 ||0:00:32||pkas||1||17
+guethleina1||Wed Feb 14 2018 19:31:22 ||Wed Feb 14 2018 19:32:16 ||0:00:54||sn2||1||23
+guethleina1||Wed Feb 14 2018 19:32:22 ||Wed Feb 14 2018 19:33:02 ||0:00:40||sn2||1||20
+guethleina1||Wed Feb 14 2018 19:33:09 ||Wed Feb 14 2018 19:34:05 ||0:00:56||IR||1||24
+powells10||Thu Feb 15 2018 12:51:48 ||Thu Feb 15 2018 12:54:19 ||0:02:31||functional groups||1||20
+powells10||Thu Feb 15 2018 12:54:32 ||Thu Feb 15 2018 12:59:06 ||0:04:33||functional groups||1||16
+powells10||Thu Feb 15 2018 12:59:58 ||Thu Feb 15 2018 13:00:47 ||0:00:49||functional groups||1||24
+powells10||Thu Feb 15 2018 13:01:24 ||Thu Feb 15 2018 13:05:16 ||0:03:52||functional groups||1||26
+powells10||Thu Feb 15 2018 13:12:29 ||Thu Feb 15 2018 13:13:48 ||0:01:19||functional groups||1||19
+powells10||Thu Feb 15 2018 13:13:49 ||Thu Feb 15 2018 13:14:37 ||0:00:48||functional groups||1||21
+powells10||Thu Feb 15 2018 13:14:55 ||Thu Feb 15 2018 13:16:14 ||0:01:19||sn2||1||22
+powells10||Thu Feb 15 2018 13:16:18 ||Thu Feb 15 2018 13:17:13 ||0:00:55||sn2||1||20
+powells10||Thu Feb 15 2018 13:17:34 ||Thu Feb 15 2018 13:18:17 ||0:00:42||sn2||1||17
+powells10||Thu Feb 15 2018 13:18:36 ||Thu Feb 15 2018 13:24:40 ||0:06:04||IR||1||32
+powells10||Thu Feb 15 2018 13:29:40 ||Thu Feb 15 2018 13:30:32 ||0:00:52||IR||1||19
+powells10||Thu Feb 15 2018 13:32:04 ||Thu Feb 15 2018 13:33:09 ||0:01:05||pkas||1||29
+powells10||Thu Feb 15 2018 13:35:46 ||Thu Feb 15 2018 13:36:43 ||0:00:57||pkas||1||29
+powells10||Thu Feb 15 2018 13:40:54 ||Thu Feb 15 2018 13:42:12 ||0:01:18||pkas||1||44
+powells10||Thu Feb 15 2018 13:45:30 ||Thu Feb 15 2018 13:46:25 ||0:00:55||pkas||1||26
+powells10||Thu Feb 15 2018 13:47:02 ||Thu Feb 15 2018 13:47:43 ||0:00:40||pkas||1||22
+powells10||Thu Feb 15 2018 13:49:04 ||Thu Feb 15 2018 13:50:40 ||0:01:36||pkas||1||29
+richardsk6||Thu Feb 15 2018 17:42:19 ||Thu Feb 15 2018 17:43:53 ||0:01:34||IR||1||33
+richardsk6||Thu Feb 15 2018 17:56:14 ||Thu Feb 15 2018 17:57:51 ||0:01:37||IR||1||31
+richardsk6||Thu Feb 15 2018 18:07:41 ||Thu Feb 15 2018 18:09:23 ||0:01:42||IR||1||30
+elwellt1||Thu Feb 15 2018 22:01:06 ||Thu Feb 15 2018 22:01:53 ||0:00:47||pkas||1||24
+elwellt1||Thu Feb 15 2018 22:01:58 ||Thu Feb 15 2018 22:02:37 ||0:00:39||pkas||1||20
+elwellt1||Thu Feb 15 2018 22:02:48 ||Thu Feb 15 2018 22:03:51 ||0:01:02||IR||1||26
+elwellt1||Thu Feb 15 2018 22:04:21 ||Thu Feb 15 2018 22:03:51 ||0:00:30||styrene||0||11
+davisr8||Fri Feb 16 2018 08:32:06 ||Fri Feb 16 2018 08:34:10 ||0:02:03||Orbitals||1||19
+davisr8||Fri Feb 16 2018 08:36:01 ||Fri Feb 16 2018 08:37:17 ||0:01:16||pkas||1||18
+davisr8||Fri Feb 16 2018 08:38:29 ||Fri Feb 16 2018 08:39:21 ||0:00:51||pkas||1||15
+davisr8||Fri Feb 16 2018 08:39:32 ||Fri Feb 16 2018 08:40:22 ||0:00:50||functional groups||1||16
+davisr8||Fri Feb 16 2018 08:56:14 ||Fri Feb 16 2018 08:57:21 ||0:01:07||sn2||1||16
+davisr8||Fri Feb 16 2018 09:00:41 ||Fri Feb 16 2018 09:03:23 ||0:02:42||IR||1||46
+fredettee1||Fri Feb 16 2018 09:16:49 ||Fri Feb 16 2018 09:17:45 ||0:00:56||pkas||1||17
+fredettee1||Fri Feb 16 2018 09:17:47 ||Fri Feb 16 2018 09:19:02 ||0:01:15||pkas||1||29
+fredettee1||Fri Feb 16 2018 09:19:07 ||Fri Feb 16 2018 09:20:02 ||0:00:54||pkas||1||21
+fredettee1||Fri Feb 16 2018 09:20:07 ||Fri Feb 16 2018 09:20:54 ||0:00:46||pkas||1||18
+davisr8||Fri Feb 16 2018 09:20:41 ||Fri Feb 16 2018 09:23:06 ||0:02:25||styrene||1||27
+dupontn1||Fri Feb 16 2018 12:20:26 ||Fri Feb 16 2018 12:22:39 ||0:02:13||pkas||1||24
+dupontn1||Fri Feb 16 2018 12:23:11 ||Fri Feb 16 2018 12:24:07 ||0:00:55||pkas||1||25
+dupontn1||Fri Feb 16 2018 12:24:08 ||Fri Feb 16 2018 12:25:15 ||0:01:07||pkas||1||19
+dupontn1||Fri Feb 16 2018 12:25:17 ||Fri Feb 16 2018 12:25:58 ||0:00:41||pkas||1||17
+dupontn1||Fri Feb 16 2018 12:25:59 ||Fri Feb 16 2018 12:26:43 ||0:00:44||pkas||1||17
+dupontn1||Fri Feb 16 2018 12:26:44 ||Fri Feb 16 2018 12:27:58 ||0:01:14||pkas||1||32
+dupontn1||Fri Feb 16 2018 12:28:03 ||Fri Feb 16 2018 12:29:49 ||0:01:46||pkas||1||42
+dupontn1||Fri Feb 16 2018 12:29:51 ||Fri Feb 16 2018 12:30:36 ||0:00:45||pkas||1||21
+dupontn1||Fri Feb 16 2018 12:30:38 ||Fri Feb 16 2018 12:31:26 ||0:00:48||pkas||1||19
+dupontn1||Fri Feb 16 2018 12:31:28 ||Fri Feb 16 2018 12:32:06 ||0:00:38||pkas||1||17
+dupontn1||Fri Feb 16 2018 12:32:08 ||Fri Feb 16 2018 12:33:25 ||0:01:16||pkas||1||20
+dupontn1||Fri Feb 16 2018 12:33:26 ||Fri Feb 16 2018 12:33:55 ||0:00:28||pkas||1||14
+dupontn1||Fri Feb 16 2018 12:33:57 ||Fri Feb 16 2018 12:34:53 ||0:00:56||pkas||1||22
+dupontn1||Fri Feb 16 2018 12:34:54 ||Fri Feb 16 2018 12:35:48 ||0:00:54||pkas||1||25
+dupontn1||Fri Feb 16 2018 12:35:50 ||Fri Feb 16 2018 12:36:36 ||0:00:46||pkas||1||19
+dupontn1||Fri Feb 16 2018 12:36:37 ||Fri Feb 16 2018 12:37:46 ||0:01:09||pkas||1||24
+dupontn1||Fri Feb 16 2018 12:37:54 ||Fri Feb 16 2018 12:39:06 ||0:01:12||IR||1||22
+dupontn1||Fri Feb 16 2018 12:40:26 ||Fri Feb 16 2018 12:41:55 ||0:01:29||IR||1||36
+dupontn1||Fri Feb 16 2018 12:41:57 ||Fri Feb 16 2018 12:43:05 ||0:01:08||IR||1||23
+dupontn1||Fri Feb 16 2018 12:43:17 ||Fri Feb 16 2018 12:43:47 ||0:00:29||sn2||1||13
+dupontn1||Fri Feb 16 2018 12:43:48 ||Fri Feb 16 2018 12:44:22 ||0:00:34||sn2||1||16
+dupontn1||Fri Feb 16 2018 12:45:06 ||Fri Feb 16 2018 12:45:43 ||0:00:37||pkas||1||16
+okoronkwoc1||Mon Feb 19 2018 10:29:51 ||Mon Feb 19 2018 10:30:43 ||0:00:52||sn2||1||15
+okoronkwoc1||Mon Feb 19 2018 10:30:49 ||Mon Feb 19 2018 10:31:52 ||0:01:02||sn2||1||17
+okoronkwoc1||Mon Feb 19 2018 10:32:43 ||Mon Feb 19 2018 10:33:38 ||0:00:55||functional groups||1||14
+okoronkwoc1||Mon Feb 19 2018 10:33:41 ||Mon Feb 19 2018 10:34:40 ||0:00:58||functional groups||1||16
+okoronkwoc1||Mon Feb 19 2018 10:35:06 ||Mon Feb 19 2018 10:36:02 ||0:00:56||sn2||1||15
+okoronkwoc1||Mon Feb 19 2018 10:36:05 ||Mon Feb 19 2018 10:37:24 ||0:01:19||sn2||1||23
+okoronkwoc1||Mon Feb 19 2018 10:37:31 ||Mon Feb 19 2018 10:38:47 ||0:01:16||pkas||1||20
+okoronkwoc1||Mon Feb 19 2018 10:39:03 ||Mon Feb 19 2018 10:40:43 ||0:01:39||pkas||1||26
+troass1||Mon Feb 26 2018 09:55:31 ||Mon Feb 26 2018 09:57:07 ||0:01:36||pkas||1||30
+wilsons29||Tue Feb 27 2018 12:35:07 ||Tue Feb 27 2018 12:36:47 ||0:01:40||sn2||1||30
+troass1||Thu Mar 01 2018 11:37:10 ||Thu Mar 01 2018 11:38:04 ||0:00:54||pkas||1||27
+mcbrided2||Tue Mar 20 2018 09:11:44 ||Tue Mar 20 2018 09:12:35 ||0:00:51||pkas||1||19
+mcbrided2||Tue Mar 20 2018 09:16:43 ||Tue Mar 20 2018 09:17:27 ||0:00:44||pkas||1||20
+mcbrided2||Tue Mar 20 2018 09:17:32 ||Tue Mar 20 2018 09:18:24 ||0:00:52||pkas||1||24
+mcbrided2||Tue Mar 20 2018 09:18:30 ||Tue Mar 20 2018 09:19:19 ||0:00:49||pkas||1||24
+mcbrided2||Tue Mar 20 2018 09:19:20 ||Tue Mar 20 2018 09:19:52 ||0:00:32||pkas||1||17
+mcbrided2||Tue Mar 20 2018 09:19:55 ||Tue Mar 20 2018 09:20:35 ||0:00:40||pkas||1||19
+figginsk1||Thu Mar 22 2018 09:31:12 ||Thu Mar 22 2018 09:35:05 ||0:03:53||Orbitals||1||50
+figginsk1||Thu Mar 22 2018 09:35:12 ||Thu Mar 22 2018 09:35:05 ||0:00:30||pkas||0||1
+figginsk1||Thu Mar 22 2018 09:35:42 ||Thu Mar 22 2018 09:38:15 ||0:02:32||pkas||1||37
+figginsk1||Thu Mar 22 2018 09:38:20 ||Thu Mar 22 2018 09:40:11 ||0:01:51||pkas||1||35
+figginsk1||Thu Mar 22 2018 09:40:20 ||Thu Mar 22 2018 09:41:53 ||0:01:33||pkas||1||24
+figginsk1||Thu Mar 22 2018 09:42:00 ||Thu Mar 22 2018 09:43:21 ||0:01:20||pkas||1||28
+figginsk1||Thu Mar 22 2018 09:43:25 ||Thu Mar 22 2018 09:44:26 ||0:01:01||pkas||1||21
+figginsk1||Thu Mar 22 2018 09:44:29 ||Thu Mar 22 2018 09:45:54 ||0:01:25||pkas||1||34
+figginsk1||Thu Mar 22 2018 09:45:57 ||Thu Mar 22 2018 09:46:48 ||0:00:51||pkas||1||17
+figginsk1||Thu Mar 22 2018 09:46:51 ||Thu Mar 22 2018 09:48:36 ||0:01:44||pkas||1||19
+figginsk1||Thu Mar 22 2018 09:48:39 ||Thu Mar 22 2018 09:49:50 ||0:01:11||pkas||1||22
+figginsk1||Thu Mar 22 2018 09:49:53 ||Thu Mar 22 2018 09:51:21 ||0:01:28||pkas||1||24
+figginsk1||Thu Mar 22 2018 09:51:26 ||Thu Mar 22 2018 09:52:25 ||0:00:58||pkas||1||21
+figginsk1||Thu Mar 22 2018 09:52:31 ||Thu Mar 22 2018 09:54:34 ||0:02:03||pkas||1||24
+figginsk1||Thu Mar 22 2018 09:54:37 ||Thu Mar 22 2018 09:56:29 ||0:01:51||pkas||1||23
+figginsk1||Thu Mar 22 2018 09:56:40 ||Thu Mar 22 2018 09:58:01 ||0:01:20||pkas||1||19
+figginsk1||Thu Mar 22 2018 09:58:04 ||Thu Mar 22 2018 09:59:15 ||0:01:11||pkas||1||22
+figginsk1||Thu Mar 22 2018 09:59:20 ||Thu Mar 22 2018 10:00:38 ||0:01:18||pkas||1||25
+figginsk1||Thu Mar 22 2018 10:00:40 ||Thu Mar 22 2018 10:01:49 ||0:01:09||pkas||1||17
+figginsk1||Thu Mar 22 2018 10:01:52 ||Thu Mar 22 2018 10:03:55 ||0:02:03||pkas||1||30
+figginsk1||Thu Mar 22 2018 10:03:59 ||Thu Mar 22 2018 10:04:42 ||0:00:43||pkas||1||17
+figginsk1||Thu Mar 22 2018 10:04:45 ||Thu Mar 22 2018 10:07:20 ||0:02:35||pkas||1||36
+figginsk1||Thu Mar 22 2018 10:07:26 ||Thu Mar 22 2018 10:08:20 ||0:00:54||functional groups||1||19
+figginsk1||Thu Mar 22 2018 10:08:29 ||Thu Mar 22 2018 10:09:35 ||0:01:06||functional groups||1||18
+figginsk1||Thu Mar 22 2018 10:10:15 ||Thu Mar 22 2018 10:11:16 ||0:01:01||functional groups||1||21
+figginsk1||Thu Mar 22 2018 10:11:17 ||Thu Mar 22 2018 10:12:28 ||0:01:11||functional groups||1||23
+figginsk1||Thu Mar 22 2018 10:12:30 ||Thu Mar 22 2018 10:14:00 ||0:01:30||functional groups||1||19
+figginsk1||Thu Mar 22 2018 10:14:05 ||Thu Mar 22 2018 10:15:08 ||0:01:03||functional groups||1||16
+figginsk1||Thu Mar 22 2018 10:15:21 ||Thu Mar 22 2018 10:17:28 ||0:02:07||acronyms||1||36
+mcbrided2||Thu Mar 22 2018 13:03:45 ||Thu Mar 22 2018 13:04:26 ||0:00:41||pkas||1||17
+mcbrided2||Thu Mar 22 2018 13:04:32 ||Thu Mar 22 2018 13:05:10 ||0:00:38||pkas||1||15
+mcbrided2||Thu Mar 22 2018 13:07:39 ||Thu Mar 22 2018 13:08:27 ||0:00:48||pkas||1||26
+mcbrided2||Thu Mar 22 2018 13:31:26 ||Thu Mar 22 2018 13:32:13 ||0:00:46||pkas||1||23
+mcbrided2||Thu Mar 22 2018 13:32:17 ||Thu Mar 22 2018 13:33:03 ||0:00:46||pkas||1||27
+fangmana5||Thu Mar 22 2018 18:57:24 ||Thu Mar 22 2018 18:58:34 ||0:01:10||pkas||1||22
+fangmana5||Thu Mar 22 2018 18:58:59 ||Thu Mar 22 2018 19:00:19 ||0:01:20||pkas||1||27
+fangmana5||Thu Mar 22 2018 19:00:57 ||Thu Mar 22 2018 19:02:33 ||0:01:35||pkas||1||29
+fangmana5||Thu Mar 22 2018 19:02:52 ||Thu Mar 22 2018 19:03:37 ||0:00:45||pkas||1||18
+fangmana5||Thu Mar 22 2018 19:04:05 ||Thu Mar 22 2018 19:05:47 ||0:01:42||styrene||1||32
+fangmana5||Thu Mar 22 2018 19:06:02 ||Thu Mar 22 2018 19:06:59 ||0:00:57||styrene||1||17
+dupontn1||Fri Mar 23 2018 12:43:25 ||Fri Mar 23 2018 12:44:21 ||0:00:56||pkas||1||13
+dupontn1||Fri Mar 23 2018 12:44:34 ||Fri Mar 23 2018 12:46:44 ||0:02:10||pkas||1||24
+fangmana5||Mon Apr 02 2018 21:34:07 ||Mon Apr 02 2018 21:35:21 ||0:01:14||pkas||1||31
+richardsk6||Mon Apr 30 2018 04:23:57 ||Mon Apr 30 2018 04:25:17 ||0:01:20||IR||1||21
+richardsk6||Mon Apr 30 2018 04:50:42 ||Mon Apr 30 2018 04:51:37 ||0:00:55||sn2||1||22
+richardsk6||Mon Apr 30 2018 04:52:15 ||Mon Apr 30 2018 04:53:21 ||0:01:06||IR||1||21
+richardsk6||Mon Apr 30 2018 04:54:16 ||Mon Apr 30 2018 04:55:24 ||0:01:08||pkas||1||22
+richardsk6||Mon Apr 30 2018 04:58:18 ||Mon Apr 30 2018 05:00:20 ||0:02:01||IR||1||47
+richardsk6||Mon Apr 30 2018 05:00:39 ||Mon Apr 30 2018 05:02:06 ||0:01:27||pkas||1||36
+richardsk6||Mon Apr 30 2018 05:03:18 ||Mon Apr 30 2018 05:03:59 ||0:00:41||pkas||1||15
+richardsk6||Mon Apr 30 2018 05:04:46 ||Mon Apr 30 2018 05:05:46 ||0:01:00||IR||1||19
+troass1||Mon Apr 30 2018 08:37:04 ||Mon Apr 30 2018 08:37:37 ||0:00:33||functional groups||1||14
+kcr01||Tue Jun 26 2018 09:29:43 ||Tue Jun 26 2018 09:30:48 ||0:01:05||aa-structure-3 let||1||21
+demo||Tue Jun 26 2018 09:57:33 ||Tue Jun 26 2018 09:58:24 ||0:00:51||aa-structure-3 let||1||17
+demo||Tue Jun 26 2018 10:00:24 ||Tue Jun 26 2018 09:58:24 ||0:00:20||aa-structure-name||0||8
+demo||Tue Jun 26 2018 10:42:26 ||||0:01:04||aa-structure-name||0||10
+demo||Tue Jun 26 2018 10:41:48 ||Tue Jun 26 2018 10:45:38 ||0:03:50||Orbitals||1||25
+demo||Tue Jun 26 2018 17:04:14 ||Tue Jun 26 2018 17:06:09 ||0:01:55||aa-structure-1 let||1||33
+demo||Tue Jun 26 2018 17:06:33 ||Tue Jun 26 2018 17:07:44 ||0:01:11||aa-structure-1 let||1||22
+demo||Sat Jul 07 2018 19:32:09 ||||0:00:24||aa-structure-name||0||4
+demo||Mon Jul 23 2018 06:20:07 ||Mon Jul 23 2018 06:21:07 ||0:01:00||aa-structure-name||1||13
+kcr||Tue Aug 21 2018 14:37:07 ||Tue Aug 21 2018 14:38:17 ||0:01:10||orbitals||1||21
+williamsm55||Fri Aug 24 2018 08:28:38 ||Fri Aug 24 2018 08:29:40 ||0:01:02||orbitals||1||24
+williamsm55||Fri Aug 24 2018 08:29:51 ||Fri Aug 24 2018 08:30:44 ||0:00:53||orbitals||1||25
+ettiena1||Mon Aug 27 2018 10:27:52 ||Mon Aug 27 2018 10:35:23 ||0:07:31||Orbitals||1||34
+hardyb3||Thu Sep 13 2018 08:41:53 ||Thu Sep 13 2018 08:43:02 ||0:01:09||orbitals||1||21
+hardyb3||Thu Sep 13 2018 08:43:37 ||Thu Sep 13 2018 08:44:51 ||0:01:14||pkas||1||31
+hardyb3||Thu Sep 13 2018 08:46:27 ||Thu Sep 13 2018 08:47:37 ||0:01:10||functional groups||1||29
+hardyb3||Thu Sep 13 2018 09:26:31 ||Thu Sep 13 2018 09:27:19 ||0:00:48||functional groups||1||23
+keeneyh1||Thu Sep 13 2018 17:05:56 ||Thu Sep 13 2018 17:07:55 ||0:01:58||functional groups||1||33
+keeneyh1||Thu Sep 13 2018 17:08:29 ||Thu Sep 13 2018 17:09:50 ||0:01:20||functional groups||1||22
+keeneyh1||Thu Sep 13 2018 17:09:51 ||Thu Sep 13 2018 17:11:17 ||0:01:25||functional groups||1||34
+keeneyh1||Thu Sep 13 2018 17:11:45 ||Thu Sep 13 2018 17:13:04 ||0:01:19||orbitals||1||34
+keeneyh1||Thu Sep 13 2018 17:47:53 ||Thu Sep 13 2018 17:48:41 ||0:00:48||functional groups||1||19
+keeneyh1||Thu Sep 13 2018 17:48:45 ||Thu Sep 13 2018 17:49:45 ||0:00:59||functional groups||1||24
+keeneyh1||Thu Sep 13 2018 17:49:47 ||Thu Sep 13 2018 17:50:34 ||0:00:47||functional groups||1||16
+keeneyh1||Thu Sep 13 2018 17:50:37 ||Thu Sep 13 2018 17:51:23 ||0:00:46||functional groups||1||20
+keeneyh1||Thu Sep 13 2018 17:52:07 ||Thu Sep 13 2018 17:53:16 ||0:01:09||functional groups||1||18
+keeneyh1||Thu Sep 13 2018 17:53:24 ||Thu Sep 13 2018 17:54:34 ||0:01:10||functional groups||1||24
+keeneyh1||Thu Sep 13 2018 17:54:36 ||Thu Sep 13 2018 17:55:38 ||0:01:02||functional groups||1||24
+keeneyh1||Thu Sep 13 2018 17:55:43 ||Thu Sep 13 2018 17:56:56 ||0:01:13||functional groups||1||25
+keeneyh1||Thu Sep 13 2018 17:56:59 ||Thu Sep 13 2018 17:57:45 ||0:00:46||functional groups||1||16
+keeneyh1||Thu Sep 13 2018 17:58:21 ||Thu Sep 13 2018 17:58:56 ||0:00:35||functional groups||1||16
+keeneyh1||Thu Sep 13 2018 17:58:59 ||Thu Sep 13 2018 17:59:49 ||0:00:50||functional groups||1||26
+hardyb3||Thu Sep 13 2018 20:49:45 ||Thu Sep 13 2018 20:51:26 ||0:01:41||functional groups||1||36
+hardyb3||Thu Sep 13 2018 20:51:49 ||Thu Sep 13 2018 20:53:21 ||0:01:32||functional groups||1||35
+hardyb3||Thu Sep 13 2018 20:53:40 ||Thu Sep 13 2018 20:54:34 ||0:00:54||functional groups||1||17
+hardyb3||Thu Sep 13 2018 22:36:01 ||Thu Sep 13 2018 22:36:51 ||0:00:49||functional groups||1||20
+hardyb3||Thu Sep 13 2018 22:39:03 ||Thu Sep 13 2018 22:39:58 ||0:00:55||functional groups||1||21
+hardyb3||Thu Sep 13 2018 22:45:45 ||Thu Sep 13 2018 22:46:38 ||0:00:52||functional groups||1||22
+hardyb3||Fri Sep 14 2018 08:50:54 ||Fri Sep 14 2018 08:51:34 ||0:00:39||functional groups||1||18
+demo||Fri Sep 14 2018 09:10:13 ||Fri Sep 14 2018 09:11:35 ||0:01:22||pkas||1||24
+hardyb3||Fri Sep 14 2018 10:21:30 ||Fri Sep 14 2018 10:22:20 ||0:00:50||functional groups||1||22
+jonesa80||Fri Sep 14 2018 10:36:37 ||Fri Sep 14 2018 10:38:14 ||0:01:37||functional groups||1||19
+jonesa80||Fri Sep 14 2018 10:39:06 ||Fri Sep 14 2018 10:39:54 ||0:00:48||functional groups||1||12
+jonesa80||Fri Sep 14 2018 10:40:30 ||Fri Sep 14 2018 10:41:20 ||0:00:49||functional groups||1||14
+jonesa80||Fri Sep 14 2018 10:41:27 ||Fri Sep 14 2018 10:42:27 ||0:01:00||functional groups||1||14
+jonesa80||Fri Sep 14 2018 10:42:37 ||Fri Sep 14 2018 10:43:31 ||0:00:54||functional groups||1||14
+jonesa80||Fri Sep 14 2018 10:49:09 ||Fri Sep 14 2018 10:50:02 ||0:00:53||functional groups||1||18
+greena19||Sat Sep 15 2018 16:44:37 ||Sat Sep 15 2018 16:45:57 ||0:01:20||orbitals||1||32
+greena19||Sat Sep 15 2018 16:46:02 ||Sat Sep 15 2018 16:45:57 ||0:00:14||aa-structure-name||0||3
+greena19||Sat Sep 15 2018 16:46:33 ||Sat Sep 15 2018 16:47:42 ||0:01:08||functional groups||1||30
+greena19||Sat Sep 15 2018 16:47:52 ||Sat Sep 15 2018 16:48:43 ||0:00:51||functional groups||1||23
+jonesa80||Sat Sep 15 2018 21:18:29 ||Sat Sep 15 2018 21:20:35 ||0:02:06||orbitals||1||35
+jonesa80||Sat Sep 15 2018 21:22:28 ||Sat Sep 15 2018 21:23:42 ||0:01:14||orbitals||1||17
+jonesa80||Sat Sep 15 2018 21:23:47 ||Sat Sep 15 2018 21:24:53 ||0:01:06||orbitals||1||18
+jonesa80||Sat Sep 15 2018 21:30:55 ||Sat Sep 15 2018 21:31:39 ||0:00:44||orbitals||1||14
+jonesa80||Sat Sep 15 2018 21:32:14 ||Sat Sep 15 2018 21:35:32 ||0:03:18||pkas||1||22
+hardyb3||Mon Sep 17 2018 13:24:20 ||Mon Sep 17 2018 13:25:30 ||0:01:10||functional groups||1||30
+hardyb3||Mon Sep 17 2018 13:26:58 ||Mon Sep 17 2018 13:27:29 ||0:00:30||functional groups||1||15
+hardyb3||Mon Sep 17 2018 13:27:50 ||Mon Sep 17 2018 13:28:55 ||0:01:05||functional groups||1||30
+hardyb3||Mon Sep 17 2018 13:29:06 ||Mon Sep 17 2018 13:29:54 ||0:00:48||functional groups||1||20
+hardyb3||Mon Sep 17 2018 13:30:04 ||Mon Sep 17 2018 13:30:49 ||0:00:45||functional groups||1||21
+hardyb3||Mon Sep 17 2018 13:30:56 ||Mon Sep 17 2018 13:31:44 ||0:00:47||functional groups||1||21
+shortc3||Mon Sep 17 2018 22:53:21 ||Mon Sep 17 2018 22:54:32 ||0:01:11||orbitals||1||22
+shortc3||Mon Sep 17 2018 22:54:44 ||Mon Sep 17 2018 22:55:49 ||0:01:05||functional groups||1||29
+shortc3||Mon Sep 17 2018 22:56:03 ||Mon Sep 17 2018 22:57:21 ||0:01:18||pkas||1||26
+shortc3||Mon Sep 17 2018 23:03:05 ||Mon Sep 17 2018 23:04:18 ||0:01:12||orbitals||1||28
+shortc3||Mon Sep 17 2018 23:04:26 ||Mon Sep 17 2018 23:05:26 ||0:01:00||orbitals||1||29
+shortc3||Mon Sep 17 2018 23:05:29 ||Mon Sep 17 2018 23:05:26 ||0:00:18||orbitals||0||9
+hardyb3||Wed Sep 19 2018 11:59:08 ||Wed Sep 19 2018 12:00:01 ||0:00:53||functional groups||1||20
+hardyb3||Wed Sep 19 2018 12:17:38 ||Wed Sep 19 2018 12:18:18 ||0:00:40||functional groups||1||18
+flanigana1||Wed Sep 19 2018 23:24:26 ||Wed Sep 19 2018 23:27:24 ||0:02:58||orbitals||1||39
+hardyb3||Wed Sep 19 2018 23:40:10 ||Wed Sep 19 2018 23:40:53 ||0:00:43||functional groups||1||20
+hardyb3||Wed Sep 19 2018 23:41:10 ||Wed Sep 19 2018 23:41:57 ||0:00:47||functional groups||1||21
+hardyb3||Wed Sep 19 2018 23:42:03 ||Wed Sep 19 2018 23:42:37 ||0:00:34||functional groups||1||15
+flanigana1||Thu Sep 20 2018 00:08:05 ||Thu Sep 20 2018 00:09:58 ||0:01:52||pkas||1||26
+flanigana1||Thu Sep 20 2018 00:19:28 ||Thu Sep 20 2018 00:20:51 ||0:01:22||functional groups||1||25
+flanigana1||Thu Sep 20 2018 00:32:36 ||Thu Sep 20 2018 00:33:42 ||0:01:05||functional groups||1||18
+greena19||Thu Sep 20 2018 10:44:30 ||Thu Sep 20 2018 10:45:26 ||0:00:55||pkas||1||21
+greena19||Thu Sep 20 2018 10:46:04 ||Thu Sep 20 2018 10:46:40 ||0:00:36||functional groups||1||17
+greena19||Thu Sep 20 2018 10:47:17 ||Thu Sep 20 2018 10:47:52 ||0:00:34||functional groups||1||15
+hardyb3||Thu Sep 20 2018 16:28:32 ||Thu Sep 20 2018 16:29:10 ||0:00:38||functional groups||1||16
+hardyb3||Thu Sep 20 2018 16:42:27 ||Thu Sep 20 2018 16:43:15 ||0:00:48||functional groups||1||23
+herdem1||Thu Sep 20 2018 18:43:29 ||Thu Sep 20 2018 18:44:30 ||0:01:01||functional groups||1||22
+herdem1||Thu Sep 20 2018 18:44:41 ||Thu Sep 20 2018 18:46:39 ||0:01:58||functional groups||1||29
+herdem1||Thu Sep 20 2018 18:46:55 ||Thu Sep 20 2018 18:50:34 ||0:03:39||functional groups||1||24
+herdem1||Thu Sep 20 2018 18:52:17 ||Thu Sep 20 2018 18:54:06 ||0:01:49||functional groups||1||21
+herdem1||Thu Sep 20 2018 18:55:18 ||Thu Sep 20 2018 18:57:37 ||0:02:19||functional groups||1||29
+herdem1||Thu Sep 20 2018 18:57:38 ||Thu Sep 20 2018 19:01:46 ||0:04:08||functional groups||1||29
+herdem1||Thu Sep 20 2018 19:05:58 ||Thu Sep 20 2018 19:06:28 ||0:00:30||functional groups||1||13
+herdem1||Thu Sep 20 2018 19:06:33 ||Thu Sep 20 2018 19:09:04 ||0:02:31||functional groups||1||23
+herdem1||Thu Sep 20 2018 19:10:04 ||Thu Sep 20 2018 19:10:42 ||0:00:37||functional groups||1||18
+herdem1||Thu Sep 20 2018 19:12:23 ||Thu Sep 20 2018 19:17:43 ||0:05:20||functional groups||1||34
+greena19||Thu Sep 20 2018 19:56:26 ||Thu Sep 20 2018 19:57:06 ||0:00:39||pkas||1||19
+greena19||Thu Sep 20 2018 19:57:16 ||Thu Sep 20 2018 19:57:49 ||0:00:32||pkas||1||16
+greena19||Thu Sep 20 2018 19:58:34 ||Thu Sep 20 2018 19:59:26 ||0:00:51||pkas||1||24
+greena19||Thu Sep 20 2018 20:18:32 ||Thu Sep 20 2018 20:19:12 ||0:00:40||pkas||1||21
+hardyb3||Thu Sep 20 2018 16:43:28 ||Thu Sep 20 2018 16:43:15 ||-17:24:14||functional groups||0||14
+hardyb3||Sat Oct 20 2018 14:19:41 ||Sat Oct 20 2018 14:20:31 ||0:00:50||pkas||1||17
+demo||Mon Oct 22 2018 13:21:22 ||||0:01:39||Orbitals||0||1
+hardyb3||Tue Oct 23 2018 11:43:53 ||Tue Oct 23 2018 11:46:00 ||0:02:07||pkas||1||37
+hardyb3||Tue Oct 23 2018 11:47:06 ||Tue Oct 23 2018 11:48:10 ||0:01:04||pkas||1||24
+hardyb3||Thu Oct 25 2018 18:02:28 ||||0:01:18||functional groups||0||2
+hardyb3||Thu Oct 25 2018 18:03:46 ||||0:02:03||pkas||0||36
